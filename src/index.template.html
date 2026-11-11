@@ -1,0 +1,411 @@
+<title>Suitcase Rex</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="A searchable, chronological database of every track on Guided By Voices' four Suitcase box sets, plus Briefcase bonus tracks.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,800&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+<style>
+/* Layout: masthead + year histogram, sticky filter bar, then a ledger of tracks grouped by year (or by disc). Each Suitcase box has its own color. */
+:root {
+  --bg: #eceee9;
+  --surface: #f8f9f6;
+  --ink: #1a1c21;
+  --muted: #5a606b;
+  --line: #d3d6cf;
+  --focus: #1f5fbf;
+  --s1: #b04a22;
+  --s2: #17716f;
+  --s3: #8f6a00;
+  --s4: #6a4a9c;
+  --bc: #5b6573;
+  --chip-ink: #ffffff;
+  --font-display: "Bricolage Grotesque", "Arial Narrow", system-ui, sans-serif;
+  --font-body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #15171b; --surface: #1d2025; --ink: #e9eae6; --muted: #a2a7b0; --line: #30343b; --focus: #7fb0ff;
+    --s1: #e57a4c; --s2: #3fb7b2; --s3: #d9ab2b; --s4: #a88be0; --bc: #9aa3b0; --chip-ink: #111316;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #15171b; --surface: #1d2025; --ink: #e9eae6; --muted: #a2a7b0; --line: #30343b; --focus: #7fb0ff;
+  --s1: #e57a4c; --s2: #3fb7b2; --s3: #d9ab2b; --s4: #a88be0; --bc: #9aa3b0; --chip-ink: #111316;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font: 15px/1.5 var(--font-body);
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
+.wrap { max-width: 1120px; margin: 0 auto; }
+a { color: inherit; }
+button, input, select { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+
+/* Masthead */
+header.mast { padding-block: 40px 20px; display: grid; gap: 28px; grid-template-columns: minmax(0, 1fr) minmax(0, 1.25fr); align-items: end; }
+.eyebrow { font: 500 12px/1 var(--font-mono); letter-spacing: .12em; text-transform: uppercase; color: var(--muted); margin: 0 0 12px; }
+h1 { font: 800 clamp(44px, 8vw, 88px)/.9 var(--font-display); letter-spacing: -.035em; margin: 0; text-wrap: balance; }
+.lede { margin: 16px 0 0; max-width: 46ch; color: var(--muted); }
+.stats { display: flex; flex-wrap: wrap; gap: 6px 22px; margin: 18px 0 0; padding: 0; list-style: none; font-variant-numeric: tabular-nums; }
+.stats b { font: 800 22px/1 var(--font-display); display: block; color: var(--ink); }
+.stats span { font-size: 12px; color: var(--muted); }
+
+/* Timeline */
+.chart { min-width: 0; }
+.chart-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; margin-bottom: 6px; }
+.chart-head h2 { font: 600 13px/1.2 var(--font-body); margin: 0; }
+.chart-head p { margin: 0; font-size: 12px; color: var(--muted); }
+.chart-box { overflow-x: auto; }
+.chart svg { display: block; width: 100%; min-width: 520px; height: auto; }
+.chart .bar { cursor: pointer; }
+.chart .bar:hover rect.hit, .chart .bar:focus rect.hit { fill: var(--line); }
+.chart text { fill: var(--muted); font: 10px var(--font-mono); }
+.chart .grid { stroke: var(--line); stroke-width: 1; }
+.legend { display: flex; flex-wrap: wrap; gap: 4px 14px; margin-top: 8px; font-size: 12px; color: var(--muted); padding: 0; list-style: none; }
+.legend li { display: flex; align-items: center; gap: 6px; }
+.swatch { width: 10px; height: 10px; border-radius: 2px; display: inline-block; flex: none; }
+
+/* Filter bar */
+.controls { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); padding-block: 12px; border-bottom: 1px solid var(--line); display: grid; gap: 10px; }
+.row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.search { flex: 1 1 260px; min-width: 0; position: relative; }
+.search input { width: 100%; padding: 9px 12px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); }
+select { padding: 8px 10px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); max-width: 100%; }
+label.inline { display: flex; align-items: center; gap: 6px; font-size: 13px; color: var(--muted); }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { border: 1px solid var(--line); background: var(--surface); padding: 4px 10px 4px 8px; border-radius: 999px; font-size: 13px; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; }
+.chip[aria-pressed="true"] { background: var(--c); border-color: var(--c); color: var(--chip-ink); }
+.chip[aria-pressed="true"] .swatch { background: var(--chip-ink) !important; }
+.active { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; font-size: 13px; color: var(--muted); }
+.active button { border: 1px dashed var(--muted); background: transparent; border-radius: 999px; padding: 2px 10px; cursor: pointer; font-size: 13px; color: var(--ink); }
+.count { font: 500 12px var(--font-mono); color: var(--muted); margin-left: auto; font-variant-numeric: tabular-nums; }
+
+/* Ledger */
+main { padding-block: 8px 64px; }
+.group { margin-top: 26px; }
+.group h3 { font: 800 28px/1 var(--font-display); letter-spacing: -.02em; margin: 0 0 4px; display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+.group h3 small { font: 400 13px var(--font-body); color: var(--muted); letter-spacing: 0; }
+.tracks { list-style: none; margin: 0; padding: 0; border-top: 2px solid var(--ink); }
+.track { display: grid; grid-template-columns: 112px minmax(0, 1.25fr) minmax(0, 1fr) minmax(0, 1.4fr); gap: 4px 18px; padding: 10px 0; border-bottom: 1px solid var(--line); align-items: start; }
+.loc { font: 500 12px/1.2 var(--font-mono); display: inline-flex; align-items: center; gap: 6px; padding-top: 3px; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.loc .swatch { width: 8px; height: 22px; border-radius: 1px; }
+.title { font-weight: 600; min-width: 0; overflow-wrap: anywhere; }
+.band { display: block; font-weight: 400; color: var(--muted); font-size: 14px; }
+.link { background: none; border: 0; padding: 0; cursor: pointer; text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px; text-align: left; }
+.link:hover { text-decoration-color: currentColor; }
+.writers { font-size: 13px; color: var(--muted); min-width: 0; }
+.writers .link { color: var(--ink); }
+.notes { font-size: 13px; min-width: 0; overflow-wrap: anywhere; }
+.yr { font: 500 11px var(--font-mono); border: 1px solid var(--line); border-radius: 3px; padding: 0 4px; margin-left: 6px; color: var(--muted); white-space: nowrap; }
+.empty { padding: 40px 0; color: var(--muted); }
+footer { border-top: 1px solid var(--line); padding-block: 18px 32px; font-size: 12px; color: var(--muted); }
+footer p { margin: 0 0 6px; max-width: 80ch; }
+
+@media (max-width: 860px) {
+  header.mast { grid-template-columns: minmax(0, 1fr); padding-block: 28px 12px; }
+  .controls { position: static; }
+  .track { grid-template-columns: 96px minmax(0, 1fr); }
+  .writers, .notes { grid-column: 2; }
+  .notes:empty, .writers:empty { display: none; }
+}
+@media (max-width: 420px) {
+  .track { grid-template-columns: minmax(0, 1fr); }
+  .writers, .notes { grid-column: 1; }
+  .count { margin-left: 0; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .chip, .link { transition: background-color .12s, color .12s, text-decoration-color .12s; }
+}
+</style>
+
+<div class="wrap">
+  <header class="mast">
+    <div>
+      <p class="eyebrow">Guided By Voices · Suitcase 1–4 + Briefcases</p>
+      <h1>Suitcase Rex</h1>
+      <p class="lede">Every track from the four Suitcase box sets of unreleased Robert Pollard and Guided By Voices recordings, with the made-up band names, dates, songwriting credits and notes, sorted by when it was recorded.</p>
+      <ul class="stats" id="stats"></ul>
+    </div>
+    <section class="chart" aria-labelledby="chart-title">
+      <div class="chart-head">
+        <h2 id="chart-title">Tracks by recording year</h2>
+        <p id="chart-hint">Select a bar to show that year</p>
+      </div>
+      <div class="chart-box" id="chart"></div>
+      <ul class="legend" id="legend"></ul>
+    </section>
+  </header>
+
+  <div class="controls" role="search">
+    <div class="row">
+      <div class="search">
+        <input id="q" type="search" placeholder="Search titles, band names, notes, writers…" aria-label="Search tracks" autocomplete="off">
+      </div>
+      <select id="writer" aria-label="Songwriter"></select>
+      <select id="sort" aria-label="Sort order">
+        <option value="chron">Chronological</option>
+        <option value="disc">Box set order</option>
+        <option value="band">Band name A–Z</option>
+        <option value="title">Track title A–Z</option>
+      </select>
+    </div>
+    <div class="row">
+      <div class="chips" id="chips" role="group" aria-label="Collections"></div>
+      <label class="inline"><input id="dated" type="checkbox"> Dated only</label>
+      <span class="count" id="count" aria-live="polite"></span>
+    </div>
+    <div class="active" id="active" hidden></div>
+  </div>
+
+  <main id="list"></main>
+
+  <footer>
+    <p>Source: the Suitcase Rex spreadsheet. Years marked with “?” are estimates; tracks without a year are listed under Undated. Disc numbers are given per box set (Suitcase 2, Disc 1 is the 5th disc of the series).</p>
+    <p>Fan-made reference. Guided By Voices and Robert Pollard are not affiliated with this page.</p>
+  </footer>
+</div>
+
+<script>
+const DATA = /*__DATA__*/null;
+const TRACKS = DATA.tracks;
+const COLLECTIONS = [
+  { key: "Suitcase 1", label: "Suitcase 1", color: "var(--s1)" },
+  { key: "Suitcase 2", label: "Suitcase 2", color: "var(--s2)" },
+  { key: "Suitcase 3", label: "Suitcase 3", color: "var(--s3)" },
+  { key: "Suitcase 4", label: "Suitcase 4", color: "var(--s4)" },
+  { key: "Briefcase", label: "Briefcases", color: "var(--bc)" },
+];
+const collKey = t => t.suitcase ? "Suitcase " + t.suitcase : "Briefcase";
+const colorOf = t => COLLECTIONS.find(c => c.key === collKey(t)).color;
+const pad = n => String(n).padStart(2, "0");
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const norm = s => String(s ?? "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+const locShort = t => t.suitcase ? `S${t.suitcase} D${t.suitcase_disc} · ${pad(t.track_no)}` : `BC${t.briefcase}`;
+const locLong = t => t.suitcase
+  ? `Suitcase ${t.suitcase} (${DATA.suitcases[t.suitcase].title}), disc ${t.suitcase_disc}, track ${t.track_no} (sheet: Disc ${pad(t.disc)})`
+  : `Briefcase ${t.briefcase}`;
+for (const t of TRACKS) {
+  t._hay = norm([t.title, t.band, t.notes, t.credit, t.year_label].join(" | "));
+}
+
+const state = { q: "", writer: "", sort: "chron", colls: new Set(), dated: false, year: null, band: null };
+
+// Restore remembered sort order (per-viewer convenience only)
+try { const s = localStorage.getItem("rex-sort"); if (s) state.sort = s; } catch (e) {}
+
+const $ = id => document.getElementById(id);
+
+function filtered() {
+  const words = norm(state.q).split(/\s+/).filter(Boolean);
+  return TRACKS.filter(t =>
+    (!state.colls.size || state.colls.has(collKey(t))) &&
+    (!state.writer || t.writers.includes(state.writer)) &&
+    (!state.dated || t.year != null) &&
+    (state.year == null || (state.year === "undated" ? t.year == null : t.year === state.year)) &&
+    (!state.band || t.band === state.band) &&
+    words.every(w => t._hay.includes(w))
+  );
+}
+
+const discOrder = (a, b) => (a.suitcase || 9) - (b.suitcase || 9) || (a.disc || 0) - (b.disc || 0) || (a.track_no || 0) - (b.track_no || 0) || (a.briefcase || 0) - (b.briefcase || 0);
+const SORTS = {
+  chron: (a, b) => (a.year ?? 9999) - (b.year ?? 9999) || (a.year_approx - b.year_approx) || discOrder(a, b),
+  disc: discOrder,
+  band: (a, b) => norm(a.band).localeCompare(norm(b.band)) || (a.year ?? 9999) - (b.year ?? 9999) || discOrder(a, b),
+  title: (a, b) => norm(a.title).localeCompare(norm(b.title)) || discOrder(a, b),
+};
+function groupOf(t) {
+  switch (state.sort) {
+    case "chron": return t.year == null ? ["Undated", ""] : [String(t.year), ""];
+    case "disc": return t.suitcase
+      ? [`Suitcase ${t.suitcase} · Disc ${t.suitcase_disc}`, `${DATA.suitcases[t.suitcase].title} (${DATA.suitcases[t.suitcase].released})`]
+      : ["Briefcases", "Bonus discs"];
+    case "band": return [t.band || "Unknown", ""];
+    default: return [(t.title || "#")[0].toUpperCase().replace(/[^A-Z]/, "#"), ""];
+  }
+}
+
+function trackHTML(t) {
+  const writers = t.writers.map(w => `<button class="link" data-writer="${esc(w)}">${esc(w)}</button>`).join(", ");
+  const yr = state.sort === "chron"
+    ? (t.year_approx ? `<span class="yr" title="Estimated year">${esc(t.year_label)}</span>` : "")
+    : (t.year_label ? `<span class="yr">${esc(t.year_label)}</span>` : "");
+  return `<li class="track">
+    <span class="loc" title="${esc(locLong(t))}"><span class="swatch" style="background:${colorOf(t)}"></span>${locShort(t)}</span>
+    <div class="title">${esc(t.title || "(untitled)")}${yr}
+      <span class="band">${t.band ? `<button class="link" data-band="${esc(t.band)}">${esc(t.band)}</button>` : ""}</span></div>
+    <div class="writers">${writers}</div>
+    <div class="notes">${esc(t.notes || "")}</div>
+  </li>`;
+}
+
+function render() {
+  const rows = filtered().sort(SORTS[state.sort]);
+  $("count").textContent = `${rows.length} of ${TRACKS.length} tracks`;
+  if (!rows.length) {
+    $("list").innerHTML = `<p class="empty">No tracks match these filters. Clear a filter or change the search.</p>`;
+  } else {
+    const groups = [];
+    let cur = null;
+    for (const t of rows) {
+      const [g, sub] = groupOf(t);
+      if (!cur || cur.name !== g) { cur = { name: g, sub, items: [] }; groups.push(cur); }
+      cur.items.push(t);
+    }
+    $("list").innerHTML = groups.map(g => `<section class="group">
+      <h3>${esc(g.name)} <small>${g.sub ? esc(g.sub) + " · " : ""}${g.items.length} track${g.items.length === 1 ? "" : "s"}</small></h3>
+      <ol class="tracks">${g.items.map(trackHTML).join("")}</ol></section>`).join("");
+  }
+  renderActive();
+  renderChart();
+}
+
+function renderActive() {
+  const bits = [];
+  if (state.band) bits.push(["band", `Band: ${state.band}`]);
+  if (state.year != null) bits.push(["year", `Year: ${state.year === "undated" ? "Undated" : state.year}`]);
+  if (state.writer) bits.push(["writer", `Writer: ${state.writer}`]);
+  const el = $("active");
+  el.hidden = !bits.length;
+  el.innerHTML = bits.length ? "Showing only: " + bits.map(([k, l]) => `<button data-clear="${k}" aria-label="Remove filter ${esc(l)}">${esc(l)} ×</button>`).join("") : "";
+}
+
+function renderStats() {
+  const bands = new Set(TRACKS.map(t => t.band).filter(Boolean));
+  const dated = TRACKS.filter(t => t.year != null);
+  const writers = new Set(TRACKS.flatMap(t => t.writers));
+  const years = dated.map(t => t.year);
+  $("stats").innerHTML = [
+    [TRACKS.length, "tracks"],
+    [bands.size, "band names"],
+    [writers.size, "songwriters"],
+    [`${Math.min(...years)}–${String(Math.max(...years)).slice(2)}`, `span (${dated.length} dated)`],
+  ].map(([n, l]) => `<li><b>${n}</b><span>${l}</span></li>`).join("");
+}
+
+function renderControls() {
+  $("chips").innerHTML = COLLECTIONS.map(c => {
+    const n = TRACKS.filter(t => collKey(t) === c.key).length;
+    const title = c.key.startsWith("Suitcase") ? DATA.suitcases[c.key.slice(-1)] : null;
+    return `<button class="chip" style="--c:${c.color}" data-coll="${c.key}" aria-pressed="false" title="${title ? esc(title.title + " (" + title.released + ")") : "Briefcase bonus tracks"}"><span class="swatch" style="background:${c.color}"></span>${c.label} <span style="opacity:.7">${n}</span></button>`;
+  }).join("");
+  const counts = {};
+  TRACKS.forEach(t => t.writers.forEach(w => counts[w] = (counts[w] || 0) + 1));
+  const list = Object.entries(counts).sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+  $("writer").innerHTML = `<option value="">All songwriters</option>` + list.map(([w, n]) => `<option value="${esc(w)}">${esc(w)} (${n})</option>`).join("");
+  $("legend").innerHTML = COLLECTIONS.map(c => `<li><span class="swatch" style="background:${c.color}"></span>${c.label}</li>`).join("");
+  $("sort").value = state.sort;
+}
+
+function renderChart() {
+  // Count the current filter set ignoring the year filter, so bars stay clickable.
+  const saved = state.year; state.year = null;
+  const rows = filtered(); state.year = saved;
+  const years = TRACKS.filter(t => t.year != null).map(t => t.year);
+  const y0 = Math.min(...years), y1 = Math.max(...years);
+  const span = y1 - y0 + 1;
+  const W = 640, H = 180, L = 26, R = 8, T = 18, B = 22, gapU = 14;
+  const slot = (W - L - R - gapU) / (span + 1.6);
+  const bw = Math.max(2, slot - 3);
+  const byYear = new Map();
+  for (const t of rows) {
+    const k = t.year ?? "undated";
+    if (!byYear.has(k)) byYear.set(k, {});
+    const o = byYear.get(k); o[collKey(t)] = (o[collKey(t)] || 0) + 1;
+  }
+  const total = k => Object.values(byYear.get(k) || {}).reduce((a, b) => a + b, 0);
+  let max = 1;
+  for (let y = y0; y <= y1; y++) max = Math.max(max, total(y));
+  const undatedN = total("undated");
+  const step = max > 40 ? 20 : max > 16 ? 10 : 5;
+  const top = Math.ceil(max / step) * step;
+  const sy = v => (H - B) - (v / top) * (H - B - T);
+  let s = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Number of tracks per recording year">`;
+  for (let v = 0; v <= top; v += step) {
+    s += `<line class="grid" x1="${L}" x2="${W - R}" y1="${sy(v)}" y2="${sy(v)}"/><text x="${L - 5}" y="${sy(v) + 3}" text-anchor="end">${v}</text>`;
+  }
+  const bar = (k, x, label, scaleVal) => {
+    const o = byYear.get(k) || {};
+    const n = total(k);
+    const sel = state.year === k;
+    let g = `<g class="bar" tabindex="0" role="button" data-year="${k}" aria-pressed="${sel}" aria-label="${label}: ${n} tracks"><title>${label}: ${n} track${n === 1 ? "" : "s"}</title>`;
+    g += `<rect class="hit" x="${x - 1.5}" y="${T}" width="${bw + 3}" height="${H - B - T}" fill="${sel ? "var(--line)" : "transparent"}"/>`;
+    let acc = 0;
+    for (const c of COLLECTIONS) {
+      const v = o[c.key] || 0;
+      if (!v) continue;
+      const v1 = scaleVal(acc), v2 = scaleVal(acc + v);
+      g += `<rect x="${x}" y="${v2}" width="${bw}" height="${Math.max(0, v1 - v2)}" fill="${c.color}" opacity="${state.year == null || sel ? 1 : .35}"/>`;
+      acc += v;
+    }
+    return g + `</g>`;
+  };
+  for (let y = y0; y <= y1; y++) {
+    const x = L + 2 + (y - y0) * slot;
+    s += bar(y, x, String(y), sy);
+    if (y % 5 === 0) s += `<text x="${x + bw / 2}" y="${H - 6}" text-anchor="middle">${y}</text>`;
+  }
+  // Undated: drawn after a gap, clipped to the axis with its true count labeled.
+  const ux = L + 2 + span * slot + gapU;
+  const clip = v => sy(Math.min(v, top));
+  s += bar("undated", ux, "Undated", clip);
+  if (undatedN > top) s += `<text x="${ux + bw / 2}" y="${T - 5}" text-anchor="middle" style="font-weight:500">${undatedN}</text>`;
+  s += `<text x="${ux + bw / 2}" y="${H - 6}" text-anchor="middle">n.d.</text></svg>`;
+  $("chart").innerHTML = s;
+  $("chart-hint").textContent = state.year == null ? "Select a bar to show that year" : "Select the bar again to show all years";
+}
+
+function setYear(k) {
+  const v = k === "undated" ? "undated" : Number(k);
+  state.year = state.year === v ? null : v;
+  if (state.year === "undated" && state.dated) { state.dated = false; $("dated").checked = false; }
+  render();
+}
+
+$("chart").addEventListener("click", e => { const g = e.target.closest(".bar"); if (g) setYear(g.dataset.year); });
+$("chart").addEventListener("keydown", e => {
+  const g = e.target.closest(".bar");
+  if (g && (e.key === "Enter" || e.key === " ")) { e.preventDefault(); setYear(g.dataset.year); }
+});
+let qTimer;
+$("q").addEventListener("input", e => { clearTimeout(qTimer); qTimer = setTimeout(() => { state.q = e.target.value; render(); }, 120); });
+$("writer").addEventListener("change", e => { state.writer = e.target.value; render(); });
+$("sort").addEventListener("change", e => {
+  state.sort = e.target.value;
+  try { localStorage.setItem("rex-sort", state.sort); } catch (err) {}
+  render();
+});
+$("dated").addEventListener("change", e => { state.dated = e.target.checked; if (state.dated && state.year === "undated") state.year = null; render(); });
+$("chips").addEventListener("click", e => {
+  const b = e.target.closest(".chip"); if (!b) return;
+  const k = b.dataset.coll;
+  state.colls.has(k) ? state.colls.delete(k) : state.colls.add(k);
+  b.setAttribute("aria-pressed", state.colls.has(k));
+  render();
+});
+$("list").addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return;
+  if (b.dataset.band) { state.band = state.band === b.dataset.band ? null : b.dataset.band; render(); window.scrollTo({ top: $("list").offsetTop - 140 }); }
+  else if (b.dataset.writer) { state.writer = b.dataset.writer; $("writer").value = state.writer; render(); }
+});
+$("active").addEventListener("click", e => {
+  const k = e.target.closest("button")?.dataset.clear; if (!k) return;
+  state[k] = k === "year" || k === "band" ? null : "";
+  if (k === "writer") $("writer").value = "";
+  render();
+});
+
+renderStats();
+renderControls();
+render();
+</script>

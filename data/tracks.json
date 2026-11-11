@@ -1,0 +1,7943 @@
+{
+ "suitcases": {
+  "1": {
+   "title": "Failed Experiments and Trashed Aircraft",
+   "released": 2000
+  },
+  "2": {
+   "title": "American Magnetic",
+   "released": 2005
+  },
+  "3": {
+   "title": "Up We Go Now",
+   "released": 2009
+  },
+  "4": {
+   "title": "Captain Kangaroo Won the War",
+   "released": 2015
+  }
+ },
+ "tracks": [
+  {
+   "band": "Styles We Paid For",
+   "title": "The Terrible Two",
+   "year": 1989,
+   "year_label": "1989",
+   "year_approx": false,
+   "notes": "Pollard, Demos, Thrasher (Same lineup as Oh Blinky, probably same year - 1989 - although listed as 1993)",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 01, track 01",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 1,
+   "suitcase_disc": 1,
+   "track_no": 1,
+   "id": 1
+  },
+  {
+   "band": "Standard Generator",
+   "title": "Bloodbeast",
+   "year": 1997,
+   "year_label": "1997",
+   "year_approx": false,
+   "notes": "DTC demo",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 01, track 02",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 1,
+   "suitcase_disc": 1,
+   "track_no": 2,
+   "id": 2
+  },
+  {
+   "band": "Huge On Pluto",
+   "title": "The Kissing Life",
+   "year": 1998,
+   "year_label": "1998",
+   "year_approx": false,
+   "notes": "Do the Collapse demo",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 01, track 03",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 1,
+   "suitcase_disc": 1,
+   "track_no": 3,
+   "id": 3
+  },
+  {
+   "band": "Whitey Museum",
+   "title": "Bottoms Up! (You Fantastic Bastards)",
+   "year": 1993,
+   "year_label": "1993",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout-Toohey",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "Toohey"
+   ],
+   "source_location": "Disc 01, track 04",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 1,
+   "suitcase_disc": 1,
+   "track_no": 4,
+   "id": 4
+  },
+  {
+   "band": "(The Amazing) Ben Zing",
+   "title": "Tear It Out",
+   "year": 1988,
+   "year_label": "1988",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 01, track 05",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 1,
+   "suitcase_disc": 1,
+   "track_no": 5,
+   "id": 5
+  },
+  {
+   "band": "Meat Kingdom Group",
+   "title": "Cinnamon Flavored Skulls",
+   "year": 1993,
+   "year_label": "1993",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 01, track 06",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 1,
+   "suitcase_disc": 1,
+   "track_no": 6,
+   "id": 6
+  },
+  {
+   "band": "Elf God",
+   "title": "Bunco Men",
+   "year": 1995,
+   "year_label": "1995",
+   "year_approx": false,
+   "notes": "Under the Bushes, Under the Stars outtake, remake appears on Mirrored Aztec",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 01, track 07",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 1,
+   "suitcase_disc": 1,
+   "track_no": 7,
+   "id": 7
+  },
+  {
+   "band": "Judas & The Piledrivers",
+   "title": "Bad and Rare",
+   "year": 1992,
+   "year_label": "1992",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 01, track 08",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 1,
+   "suitcase_disc": 1,
+   "track_no": 8,
+   "id": 8
+  },
+  {
+   "band": "Eric Pretty",
+   "title": "Dorothy's a Planet [Original Version]",
+   "year": 1998,
+   "year_label": "1998",
+   "year_approx": false,
+   "notes": "Concert for Todd, Boston Spaceships remake on The Planets Are Blasted",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 01, track 09",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 1,
+   "suitcase_disc": 1,
+   "track_no": 9,
+   "id": 9
+  },
+  {
+   "band": "Global Witch Awakening",
+   "title": "Pluto the Skate [Original Version]",
+   "year": 1992,
+   "year_label": "1992",
+   "year_approx": false,
+   "notes": "Boston Spaceships version on Zero to 99 (same track with additional overdubs)",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 01, track 10",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 1,
+   "suitcase_disc": 1,
+   "track_no": 10,
+   "id": 10
+  },
+  {
+   "band": "Magic Toe",
+   "title": "Let's Go Vike",
+   "year": 1989,
+   "year_label": "1989",
+   "year_approx": false,
+   "notes": "from the aborted Learning To Hunt LP",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 01, track 11",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 1,
+   "suitcase_disc": 1,
+   "track_no": 11,
+   "id": 11
+  },
+  {
+   "band": "Hazzard Hotrods",
+   "title": "Sabotage",
+   "year": 1990,
+   "year_label": "1990",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout-Mitch Mitchell-Keller",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "Mitch Mitchell",
+    "Keller"
+   ],
+   "source_location": "Disc 01, track 12",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 1,
+   "suitcase_disc": 1,
+   "track_no": 12,
+   "id": 12
+  },
+  {
+   "band": "Tax Revlon",
+   "title": "Pink Drink [Demo]",
+   "year": 1995,
+   "year_label": "1995",
+   "year_approx": false,
+   "notes": "Power of Suck demo",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 01, track 13",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 1,
+   "suitcase_disc": 1,
+   "track_no": 13,
+   "id": 13
+  },
+  {
+   "band": "Champion Hairpuller",
+   "title": "James Riot",
+   "year": 1998,
+   "year_label": "1998",
+   "year_approx": false,
+   "notes": "Do the Collapse demo",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 01, track 14",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 1,
+   "suitcase_disc": 1,
+   "track_no": 14,
+   "id": 14
+  },
+  {
+   "band": "Burns Carpenter",
+   "title": "It's Easy [Original Version]",
+   "year": 1984,
+   "year_label": "1984",
+   "year_approx": false,
+   "notes": "Remake on the Crawling Distance",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 01, track 15",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 1,
+   "suitcase_disc": 1,
+   "track_no": 15,
+   "id": 15
+  },
+  {
+   "band": "A A Bottom",
+   "title": "Dank Star Ground Control",
+   "year": 1993,
+   "year_label": "1993",
+   "year_approx": false,
+   "notes": "Bee Thousand outtake",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 01, track 16",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 1,
+   "suitcase_disc": 1,
+   "track_no": 16,
+   "id": 16
+  },
+  {
+   "band": "Crushed Being Groovy",
+   "title": "Spring Tigers",
+   "year": 1992,
+   "year_label": "1992",
+   "year_approx": false,
+   "notes": "Back To Saturn X",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 01, track 17",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 1,
+   "suitcase_disc": 1,
+   "track_no": 17,
+   "id": 17
+  },
+  {
+   "band": "Rex Polaroyd",
+   "title": "Born on Seaweed",
+   "year": 2000,
+   "year_label": "2000",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 01, track 18",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 1,
+   "suitcase_disc": 1,
+   "track_no": 18,
+   "id": 18
+  },
+  {
+   "band": "Monkey Business",
+   "title": "Flesh Ears From June",
+   "year": 1992,
+   "year_label": "1992",
+   "year_approx": false,
+   "notes": "heard in the background of \"Gas\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 01, track 19",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 1,
+   "suitcase_disc": 1,
+   "track_no": 19,
+   "id": 19
+  },
+  {
+   "band": "Ghetto Blaster",
+   "title": "Driving in the U.S. Of A.",
+   "year": 1992,
+   "year_label": "1992",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 01, track 20",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 1,
+   "suitcase_disc": 1,
+   "track_no": 20,
+   "id": 20
+  },
+  {
+   "band": "Turned On Turner",
+   "title": "My Big Day [3 Versions]",
+   "year": 1990,
+   "year_label": "1990",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-J. Pollard",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard"
+   ],
+   "source_location": "Disc 01, track 21",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 1,
+   "suitcase_disc": 1,
+   "track_no": 21,
+   "id": 21
+  },
+  {
+   "band": "Maxwell Greenfield",
+   "title": "Have It Again",
+   "year": 1991,
+   "year_label": "1991",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 01, track 22",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 1,
+   "suitcase_disc": 1,
+   "track_no": 22,
+   "id": 22
+  },
+  {
+   "band": "Little Bobby Pop",
+   "title": "Little Jimmy The Giant",
+   "year": 1975,
+   "year_label": "1975",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 01, track 23",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 1,
+   "suitcase_disc": 1,
+   "track_no": 23,
+   "id": 23
+  },
+  {
+   "band": "Bozo's Octopuss",
+   "title": "Taco, Buffalo, Birddog and Jesus",
+   "year": 1989,
+   "year_label": "1989",
+   "year_approx": false,
+   "notes": "from the aborted Learning To Hunt LP",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 01, track 24",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 1,
+   "suitcase_disc": 1,
+   "track_no": 24,
+   "id": 24
+  },
+  {
+   "band": "Mooshoo Wharf",
+   "title": "Ding Dong Daddy (Is Back From the Bank)",
+   "year": 1993,
+   "year_label": "1993",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout",
+   "writers": [
+    "R. Pollard",
+    "Sprout"
+   ],
+   "source_location": "Disc 01, track 25",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 1,
+   "suitcase_disc": 1,
+   "track_no": 25,
+   "id": 25
+  },
+  {
+   "band": "Clinton Killingsworth",
+   "title": "Supermarket the Moon",
+   "year": 1993,
+   "year_label": "1993",
+   "year_approx": false,
+   "notes": "Bee Thousand outtake",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 02, track 01",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 2,
+   "suitcase_disc": 2,
+   "track_no": 1,
+   "id": 26
+  },
+  {
+   "band": "Stingy Queens",
+   "title": "Hold On to Yesterday",
+   "year": 1983,
+   "year_label": "1983",
+   "year_approx": false,
+   "notes": null,
+   "credit": "Mitch Mitchell-R. Pollard",
+   "writers": [
+    "Mitch Mitchell",
+    "R. Pollard"
+   ],
+   "source_location": "Disc 02, track 02",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 2,
+   "suitcase_disc": 2,
+   "track_no": 2,
+   "id": 27
+  },
+  {
+   "band": "Judy Plus Nine, The",
+   "title": "Ha Ha Man [Different Version]",
+   "year": 1993,
+   "year_label": "1993",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 02, track 03",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 2,
+   "suitcase_disc": 2,
+   "track_no": 3,
+   "id": 28
+  },
+  {
+   "band": "Nicotine Cranes",
+   "title": "Our Value of Luxury",
+   "year": 1992,
+   "year_label": "1992",
+   "year_approx": false,
+   "notes": "same session as \"Heartbeat\", \"The Garden\", \"Spring Tigers\"?",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 02, track 04",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 2,
+   "suitcase_disc": 2,
+   "track_no": 4,
+   "id": 29
+  },
+  {
+   "band": "Arthur Psycho and The Trippy Warts",
+   "title": "Bug House [2 Versions]",
+   "year": 1995,
+   "year_label": "1995",
+   "year_approx": false,
+   "notes": "from the aborted Power of Suck LP",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 02, track 05",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 2,
+   "suitcase_disc": 2,
+   "track_no": 5,
+   "id": 30
+  },
+  {
+   "band": "Groovy Lucifer",
+   "title": "Rainbow Billy",
+   "year": 1992,
+   "year_label": "1992",
+   "year_approx": false,
+   "notes": "\"One Track Record\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 02, track 06",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 2,
+   "suitcase_disc": 2,
+   "track_no": 6,
+   "id": 31
+  },
+  {
+   "band": "Approval of Mice",
+   "title": "Shrine to the Dynamic Years (Athens Time Change Riots)",
+   "year": 1998,
+   "year_label": "1998",
+   "year_approx": false,
+   "notes": "Do the Collapse demo",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 02, track 07",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 2,
+   "suitcase_disc": 2,
+   "track_no": 7,
+   "id": 32
+  },
+  {
+   "band": "Eric Pretty",
+   "title": "On Short Wave [Original Version]",
+   "year": 1998,
+   "year_label": "1998",
+   "year_approx": false,
+   "notes": "Concert for Todd, remake on The Crawling Distance",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 02, track 08",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 2,
+   "suitcase_disc": 2,
+   "track_no": 8,
+   "id": 33
+  },
+  {
+   "band": "Artrock Unicorns",
+   "title": "I Can See It In Your Eyes",
+   "year": 1989,
+   "year_label": "1989",
+   "year_approx": false,
+   "notes": "from the aborted Learning to Hunt LP (2nd version)",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 02, track 09",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 2,
+   "suitcase_disc": 2,
+   "track_no": 9,
+   "id": 34
+  },
+  {
+   "band": "Kuda Labranche",
+   "title": "Tobacco's Last Stand",
+   "year": 1992,
+   "year_label": "1992",
+   "year_approx": false,
+   "notes": "Bee Thousand Outtake",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 02, track 10",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 2,
+   "suitcase_disc": 2,
+   "track_no": 10,
+   "id": 35
+  },
+  {
+   "band": "Elvis Caligula",
+   "title": "Shifting Swift Is a Lift",
+   "year": 1992,
+   "year_label": "1992",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 02, track 11",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 2,
+   "suitcase_disc": 2,
+   "track_no": 11,
+   "id": 36
+  },
+  {
+   "band": "Tabatha's Flashpot",
+   "title": "Sing It Out",
+   "year": 1997,
+   "year_label": "1997",
+   "year_approx": false,
+   "notes": "DTC demo",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 02, track 12",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 2,
+   "suitcase_disc": 2,
+   "track_no": 12,
+   "id": 37
+  },
+  {
+   "band": "Ricked Wicky",
+   "title": "Messenger",
+   "year": 1985,
+   "year_label": "1985",
+   "year_approx": false,
+   "notes": "From Rifle Games",
+   "credit": "Comstock-R. Pollard",
+   "writers": [
+    "Comstock",
+    "R. Pollard"
+   ],
+   "source_location": "Disc 02, track 13",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 2,
+   "suitcase_disc": 2,
+   "track_no": 13,
+   "id": 38
+  },
+  {
+   "band": "K.C. Turner",
+   "title": "The Fool Ticket",
+   "year": 1997,
+   "year_label": "1997",
+   "year_approx": false,
+   "notes": "DTC demo",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 02, track 14",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 2,
+   "suitcase_disc": 2,
+   "track_no": 14,
+   "id": 39
+  },
+  {
+   "band": "Brown Smoothies",
+   "title": "Mallard Smoke",
+   "year": 1990,
+   "year_label": "1990",
+   "year_approx": false,
+   "notes": "Back To Saturn X outtake",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 02, track 15",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 2,
+   "suitcase_disc": 2,
+   "track_no": 15,
+   "id": 40
+  },
+  {
+   "band": "Edison Shell",
+   "title": "Mr. McCaslin Will Sell No More Flowers",
+   "year": 1979,
+   "year_label": "1979",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 02, track 16",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 2,
+   "suitcase_disc": 2,
+   "track_no": 16,
+   "id": 41
+  },
+  {
+   "band": "Ceramic Cock Einstein",
+   "title": "Shit Midas",
+   "year": 1992,
+   "year_label": "1992",
+   "year_approx": false,
+   "notes": "Bee Thousand outtake",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 02, track 17",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 2,
+   "suitcase_disc": 2,
+   "track_no": 17,
+   "id": 42
+  },
+  {
+   "band": "Moonchief",
+   "title": "Blue Gil",
+   "year": 1989,
+   "year_label": "1989",
+   "year_approx": false,
+   "notes": "from the aborted Learning To Hunt LP",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 02, track 18",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 2,
+   "suitcase_disc": 2,
+   "track_no": 18,
+   "id": 43
+  },
+  {
+   "band": "Ricked Wicky",
+   "title": "Invest in British Steel",
+   "year": 1985,
+   "year_label": "1985",
+   "year_approx": false,
+   "notes": "Parts of this instrumental used in \"Soul Barn\" (SC2) and \"Break Even\"",
+   "credit": "R. Pollard-Mitch Mitchell-Comstock-Peyton Eric",
+   "writers": [
+    "R. Pollard",
+    "Mitch Mitchell",
+    "Comstock",
+    "Peyton Eric"
+   ],
+   "source_location": "Disc 02, track 19",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 2,
+   "suitcase_disc": 2,
+   "track_no": 19,
+   "id": 44
+  },
+  {
+   "band": "Pearly Gates Smoke Machine",
+   "title": "Spinning Around",
+   "year": 1983,
+   "year_label": "1983",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 02, track 20",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 2,
+   "suitcase_disc": 2,
+   "track_no": 20,
+   "id": 45
+  },
+  {
+   "band": "1st Joint",
+   "title": "Let's Go! (To War)",
+   "year": 1992,
+   "year_label": "1992",
+   "year_approx": false,
+   "notes": "Propeller outtake? (sounds a lot like Exit Flagger and On The Tundra)",
+   "credit": "R. Pollard-Sprout",
+   "writers": [
+    "R. Pollard",
+    "Sprout"
+   ],
+   "source_location": "Disc 02, track 21",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 2,
+   "suitcase_disc": 2,
+   "track_no": 21,
+   "id": 46
+  },
+  {
+   "band": "Antler",
+   "title": "Grasshopper Rap",
+   "year": 1989,
+   "year_label": "1989",
+   "year_approx": false,
+   "notes": "Same Place the Fly Got Smashed outtake",
+   "credit": "R. Pollard-J. Pollard",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard"
+   ],
+   "source_location": "Disc 02, track 22",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 2,
+   "suitcase_disc": 2,
+   "track_no": 22,
+   "id": 47
+  },
+  {
+   "band": "King of Cincinnati",
+   "title": "I'm Cold",
+   "year": 1987,
+   "year_label": "1987",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 02, track 23",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 2,
+   "suitcase_disc": 2,
+   "track_no": 23,
+   "id": 48
+  },
+  {
+   "band": "Ghost Fart",
+   "title": "Damn Good Mr. Jam [Different Version]",
+   "year": 1992,
+   "year_label": "1992",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout",
+   "writers": [
+    "R. Pollard",
+    "Sprout"
+   ],
+   "source_location": "Disc 02, track 24",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 2,
+   "suitcase_disc": 2,
+   "track_no": 24,
+   "id": 49
+  },
+  {
+   "band": "Ben Zing",
+   "title": "In Walked the Moon",
+   "year": 1988,
+   "year_label": "1988",
+   "year_approx": false,
+   "notes": "vocal re-used in \"Starboy\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 02, track 25",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 2,
+   "suitcase_disc": 2,
+   "track_no": 25,
+   "id": 50
+  },
+  {
+   "band": "Fake Organisms",
+   "title": "Long Way to Run",
+   "year": 1987,
+   "year_label": "1987",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 03, track 01",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 3,
+   "suitcase_disc": 3,
+   "track_no": 1,
+   "id": 51
+  },
+  {
+   "band": "Tom Devil",
+   "title": "Mr. Media",
+   "year": 1997,
+   "year_label": "1997",
+   "year_approx": false,
+   "notes": "DTC demo",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 03, track 02",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 3,
+   "suitcase_disc": 3,
+   "track_no": 2,
+   "id": 52
+  },
+  {
+   "band": "Urinary Track Stars",
+   "title": "Settlement Down",
+   "year": 1989,
+   "year_label": "1989",
+   "year_approx": false,
+   "notes": "from the aborted Learning To Hunt LP",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 03, track 03",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 3,
+   "suitcase_disc": 3,
+   "track_no": 3,
+   "id": 53
+  },
+  {
+   "band": "Red Hot Helicopter",
+   "title": "Mr. Japan",
+   "year": 1993,
+   "year_label": "1993",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout-Toohey",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "Toohey"
+   ],
+   "source_location": "Disc 03, track 04",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 3,
+   "suitcase_disc": 3,
+   "track_no": 4,
+   "id": 54
+  },
+  {
+   "band": "Doctor Formula",
+   "title": "A Kind of Love [Live]",
+   "year": 1984,
+   "year_label": "1984",
+   "year_approx": false,
+   "notes": "Recorded at Gilly's, Dayton, OH",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 03, track 05",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 3,
+   "suitcase_disc": 3,
+   "track_no": 5,
+   "id": 55
+  },
+  {
+   "band": "Ben Zing",
+   "title": "Meddle [Original Version]",
+   "year": 1988,
+   "year_label": "1988",
+   "year_approx": false,
+   "notes": "Boston Spaceships remake on Zero to 99",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 03, track 06",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 3,
+   "suitcase_disc": 3,
+   "track_no": 6,
+   "id": 56
+  },
+  {
+   "band": "Hazzard Hotrods",
+   "title": "Big Trouble",
+   "year": 1990,
+   "year_label": "1990",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout-Mitch Mitchell-Keller",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "Mitch Mitchell",
+    "Keller"
+   ],
+   "source_location": "Disc 03, track 07",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 3,
+   "suitcase_disc": 3,
+   "track_no": 7,
+   "id": 57
+  },
+  {
+   "band": "Eric Pretty",
+   "title": "A Good Circuitry Soldier [Original Version]",
+   "year": 1998,
+   "year_label": "1998",
+   "year_approx": false,
+   "notes": "Concert for Todd, Boston Spaceships remake on Zero to 99",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 03, track 08",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 3,
+   "suitcase_disc": 3,
+   "track_no": 8,
+   "id": 58
+  },
+  {
+   "band": "Antler",
+   "title": "Devil Doll",
+   "year": 1989,
+   "year_label": "1989",
+   "year_approx": false,
+   "notes": "Same Place the Fly Got Smashed outtake",
+   "credit": "R. Pollard-J. Pollard",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard"
+   ],
+   "source_location": "Disc 03, track 09",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 3,
+   "suitcase_disc": 3,
+   "track_no": 9,
+   "id": 59
+  },
+  {
+   "band": "Indian Alarm Clock",
+   "title": "Pantherz [Demo]",
+   "year": 1995,
+   "year_label": "1995",
+   "year_approx": false,
+   "notes": "Power of Suck demo",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 03, track 10",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 3,
+   "suitcase_disc": 3,
+   "track_no": 10,
+   "id": 60
+  },
+  {
+   "band": "Flaming Ray",
+   "title": "Cocaine Jane",
+   "year": 1980,
+   "year_label": "1980",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 03, track 11",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 3,
+   "suitcase_disc": 3,
+   "track_no": 11,
+   "id": 61
+  },
+  {
+   "band": "Grabbit",
+   "title": "Exploding Anthills [Original Version]",
+   "year": 1997,
+   "year_label": "1997",
+   "year_approx": false,
+   "notes": "DTC demo, Boston Spaceships version on Zero to 99",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 03, track 12",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 3,
+   "suitcase_disc": 3,
+   "track_no": 12,
+   "id": 62
+  },
+  {
+   "band": "8th Dwarf",
+   "title": "Perch Warble",
+   "year": 1990,
+   "year_label": "1990",
+   "year_approx": false,
+   "notes": "Back To Saturn X, was also considered for alt. Bee Thousand",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 03, track 13",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 3,
+   "suitcase_disc": 3,
+   "track_no": 13,
+   "id": 63
+  },
+  {
+   "band": "Coward of the Hour",
+   "title": "This View/True Sensation/On the Wall",
+   "year": 1991,
+   "year_label": "1991",
+   "year_approx": false,
+   "notes": "\"This View\" = Same recording as \"Free It\" (SC2, 1992)",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 03, track 14",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 3,
+   "suitcase_disc": 3,
+   "track_no": 14,
+   "id": 64
+  },
+  {
+   "band": "Oil Can Harry",
+   "title": "What Are We Coming Up To?",
+   "year": 1993,
+   "year_label": "1993",
+   "year_approx": false,
+   "notes": "\"Off The Wall\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 03, track 15",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 3,
+   "suitcase_disc": 3,
+   "track_no": 15,
+   "id": 65
+  },
+  {
+   "band": "Too Proud Too Practice",
+   "title": "Scissors and the Clay Ox (In)",
+   "year": 1990,
+   "year_label": "1990",
+   "year_approx": false,
+   "notes": "From aborted Back To Saturn X LP",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 03, track 16",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 3,
+   "suitcase_disc": 3,
+   "track_no": 16,
+   "id": 66
+  },
+  {
+   "band": "Zeppelin Commander",
+   "title": "Cody's Antler",
+   "year": 1993,
+   "year_label": "1993",
+   "year_approx": false,
+   "notes": "instrumental, Bob on acoustic, Toby on lead",
+   "credit": "R. Pollard-J. Pollard-Sprout-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard",
+    "Sprout",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 03, track 17",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 3,
+   "suitcase_disc": 3,
+   "track_no": 17,
+   "id": 67
+  },
+  {
+   "band": "God's Brother",
+   "title": "Once In A While",
+   "year": 1989,
+   "year_label": "1989",
+   "year_approx": false,
+   "notes": "Remade as \"The Candyland Riots\" on Tonics and Twisted Chasers (different lyrics)",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 03, track 18",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 3,
+   "suitcase_disc": 3,
+   "track_no": 18,
+   "id": 68
+  },
+  {
+   "band": "Antler",
+   "title": "Buzzards and Dreadful Crows",
+   "year": 1989,
+   "year_label": "1989",
+   "year_approx": false,
+   "notes": "Same Place the Fly Got Smashed outtake",
+   "credit": "R. Pollard-J. Pollard",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard"
+   ],
+   "source_location": "Disc 03, track 19",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 3,
+   "suitcase_disc": 3,
+   "track_no": 19,
+   "id": 69
+  },
+  {
+   "band": "Kink Zego",
+   "title": "Carnival at the Morning Star School",
+   "year": 1997,
+   "year_label": "1997",
+   "year_approx": false,
+   "notes": "DTC demo",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 03, track 20",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 3,
+   "suitcase_disc": 3,
+   "track_no": 20,
+   "id": 70
+  },
+  {
+   "band": "Royal Japanese Daycare",
+   "title": "Cruise [Different Version]",
+   "year": 1993,
+   "year_label": "1993",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 03, track 21",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 3,
+   "suitcase_disc": 3,
+   "track_no": 21,
+   "id": 71
+  },
+  {
+   "band": "Stingy Queens",
+   "title": "Gayle",
+   "year": 1983,
+   "year_label": "1983",
+   "year_approx": false,
+   "notes": "Recycled as \"Deathtrot and Warlock Riding a Rooster\"",
+   "credit": "R. Pollard-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 03, track 22",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 3,
+   "suitcase_disc": 3,
+   "track_no": 22,
+   "id": 72
+  },
+  {
+   "band": "Homosexual Flypaper",
+   "title": "Gift",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": "last 20 seconds used to open \"Jabberstroker\"",
+   "credit": "R. Pollard-J. Pollard-Mitch Mitchell-Sprout-Greer-Fennell",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard",
+    "Mitch Mitchell",
+    "Sprout",
+    "Greer",
+    "Fennell"
+   ],
+   "source_location": "Disc 03, track 23",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 3,
+   "suitcase_disc": 3,
+   "track_no": 23,
+   "id": 73
+  },
+  {
+   "band": "Fast Forward Life",
+   "title": "The Flying Party",
+   "year": 1995,
+   "year_label": "1995",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout",
+   "writers": [
+    "R. Pollard",
+    "Sprout"
+   ],
+   "source_location": "Disc 03, track 24",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 3,
+   "suitcase_disc": 3,
+   "track_no": 24,
+   "id": 74
+  },
+  {
+   "band": "Bus of Trojan Hope",
+   "title": "Trashed Aircraft",
+   "year": 1997,
+   "year_label": "1997",
+   "year_approx": false,
+   "notes": "DTC demo",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 03, track 25",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 3,
+   "suitcase_disc": 3,
+   "track_no": 25,
+   "id": 75
+  },
+  {
+   "band": "Pete Eastwood",
+   "title": "Trying to Make It Work Again",
+   "year": 1981,
+   "year_label": "1981",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 04, track 01",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 4,
+   "suitcase_disc": 4,
+   "track_no": 1,
+   "id": 76
+  },
+  {
+   "band": "Panzee",
+   "title": "Turbo Boy",
+   "year": 1989,
+   "year_label": "1989",
+   "year_approx": false,
+   "notes": "Partially recycled into \"Pantherz\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 04, track 02",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 4,
+   "suitcase_disc": 4,
+   "track_no": 2,
+   "id": 77
+  },
+  {
+   "band": "Unfriendly, The",
+   "title": "Chain Wallet Bitch",
+   "year": 1993,
+   "year_label": "1993",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Mitch Mitchell-Sprout-J. Pollard",
+   "writers": [
+    "R. Pollard",
+    "Mitch Mitchell",
+    "Sprout",
+    "J. Pollard"
+   ],
+   "source_location": "Disc 04, track 03",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 4,
+   "suitcase_disc": 4,
+   "track_no": 3,
+   "id": 78
+  },
+  {
+   "band": "King of Cincinnati",
+   "title": "Little Head",
+   "year": 1987,
+   "year_label": "1987",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 04, track 04",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 4,
+   "suitcase_disc": 4,
+   "track_no": 4,
+   "id": 79
+  },
+  {
+   "band": "Matted Pelt",
+   "title": "Why Did You Land?",
+   "year": 1993,
+   "year_label": "1993",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-J. Pollard-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 04, track 05",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 4,
+   "suitcase_disc": 4,
+   "track_no": 5,
+   "id": 80
+  },
+  {
+   "band": "Ben Zing",
+   "title": "Time Machines [Different Version]",
+   "year": 1988,
+   "year_label": "1988",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 04, track 06",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 4,
+   "suitcase_disc": 4,
+   "track_no": 6,
+   "id": 81
+  },
+  {
+   "band": "Hazzard Hotrods",
+   "title": "A Farewell To Arms",
+   "year": 1990,
+   "year_label": "1990",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout-Mitch Mitchell-Keller",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "Mitch Mitchell",
+    "Keller"
+   ],
+   "source_location": "Disc 04, track 07",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 4,
+   "suitcase_disc": 4,
+   "track_no": 7,
+   "id": 82
+  },
+  {
+   "band": "Jumped or Pushed?",
+   "title": "Best Things Goin' Round",
+   "year": 1983,
+   "year_label": "1983",
+   "year_approx": false,
+   "notes": "sounds a lot like \"Free It\" and \"Alone In Time\". probably not from 1983",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 04, track 08",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 4,
+   "suitcase_disc": 4,
+   "track_no": 8,
+   "id": 83
+  },
+  {
+   "band": "Good Parts Only Corporation",
+   "title": "Sickly Sweet",
+   "year": 1993,
+   "year_label": "1993",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout-J. Pollard",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "J. Pollard"
+   ],
+   "source_location": "Disc 04, track 09",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 4,
+   "suitcase_disc": 4,
+   "track_no": 9,
+   "id": 84
+  },
+  {
+   "band": "Ben Zing",
+   "title": "United",
+   "year": 1988,
+   "year_label": "1988",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 04, track 10",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 4,
+   "suitcase_disc": 4,
+   "track_no": 10,
+   "id": 85
+  },
+  {
+   "band": "John the Croc",
+   "title": "Unshaven Bird [Original Version]",
+   "year": 1997,
+   "year_label": "1997",
+   "year_approx": false,
+   "notes": "DTC demo, Boston Spaceships remake on Cubehouse",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 04, track 11",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 4,
+   "suitcase_disc": 4,
+   "track_no": 11,
+   "id": 86
+  },
+  {
+   "band": "Go Back Snowball",
+   "title": "Black Ghost Pie",
+   "year": 1995,
+   "year_label": "1995",
+   "year_approx": false,
+   "notes": "Not in My Airforce outtake (likely)",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 04, track 12",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 4,
+   "suitcase_disc": 4,
+   "track_no": 12,
+   "id": 87
+  },
+  {
+   "band": "Brown Star Jam",
+   "title": "Go For the Answers",
+   "year": 1988,
+   "year_label": "1988",
+   "year_approx": false,
+   "notes": "Boston Spaceships remake on Brown Submarine as \"Go for the Exit\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 04, track 13",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 4,
+   "suitcase_disc": 4,
+   "track_no": 13,
+   "id": 88
+  },
+  {
+   "band": "Factory Rat",
+   "title": "Rocking Now [Demo]",
+   "year": 1998,
+   "year_label": "1998",
+   "year_approx": false,
+   "notes": "Do the Collapse demo",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 04, track 14",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 4,
+   "suitcase_disc": 4,
+   "track_no": 14,
+   "id": 89
+  },
+  {
+   "band": "God's Brother",
+   "title": "Excellent Things",
+   "year": 1988,
+   "year_label": "1988",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 04, track 15",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 4,
+   "suitcase_disc": 4,
+   "track_no": 15,
+   "id": 90
+  },
+  {
+   "band": "Antler",
+   "title": "Static Airplane Jive",
+   "year": 1989,
+   "year_label": "1989",
+   "year_approx": false,
+   "notes": "Same Place the Fly Got Smashed outtake",
+   "credit": "R. Pollard-J. Pollard",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard"
+   ],
+   "source_location": "Disc 04, track 16",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 4,
+   "suitcase_disc": 4,
+   "track_no": 16,
+   "id": 91
+  },
+  {
+   "band": "Fake Organisms",
+   "title": "Where I Come From",
+   "year": 1987,
+   "year_label": "1987",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 04, track 17",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 4,
+   "suitcase_disc": 4,
+   "track_no": 17,
+   "id": 92
+  },
+  {
+   "band": "Fat Chance",
+   "title": "Try To Find You",
+   "year": 1984,
+   "year_label": "1984",
+   "year_approx": false,
+   "notes": "Partially recycled in \"Storm Vibrations\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 04, track 18",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 4,
+   "suitcase_disc": 4,
+   "track_no": 18,
+   "id": 93
+  },
+  {
+   "band": "Antler",
+   "title": "Deaf Ears [Different Version]",
+   "year": 1989,
+   "year_label": "1989",
+   "year_approx": false,
+   "notes": "Same Place the Fly Got Smashed outtake",
+   "credit": "R. Pollard-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 04, track 19",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 4,
+   "suitcase_disc": 4,
+   "track_no": 19,
+   "id": 94
+  },
+  {
+   "band": "Academy of Crowsfeet",
+   "title": "Good For a Few Laughs",
+   "year": 1993,
+   "year_label": "1993",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout",
+   "writers": [
+    "R. Pollard",
+    "Sprout"
+   ],
+   "source_location": "Disc 04, track 20",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 4,
+   "suitcase_disc": 4,
+   "track_no": 20,
+   "id": 95
+  },
+  {
+   "band": "Nelly & The Dirtfloor",
+   "title": "Raphael",
+   "year": 2000,
+   "year_label": "2000",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 04, track 21",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 4,
+   "suitcase_disc": 4,
+   "track_no": 21,
+   "id": 96
+  },
+  {
+   "band": "Maxwell Greenfield",
+   "title": "My Feet's Trustworthy Existence",
+   "year": 1992,
+   "year_label": "1992",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 04, track 22",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 4,
+   "suitcase_disc": 4,
+   "track_no": 22,
+   "id": 97
+  },
+  {
+   "band": "Bravery Umpire",
+   "title": "Eggs",
+   "year": 1989,
+   "year_label": "1989",
+   "year_approx": false,
+   "notes": "song similar to The Future Is In Eggs",
+   "credit": "R. Pollard-Mitch Mitchell-J. Pollard",
+   "writers": [
+    "R. Pollard",
+    "Mitch Mitchell",
+    "J. Pollard"
+   ],
+   "source_location": "Disc 04, track 23",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 4,
+   "suitcase_disc": 4,
+   "track_no": 23,
+   "id": 98
+  },
+  {
+   "band": "Clinton Killingsworth",
+   "title": "Wondering Boy Poet [Piano Version]",
+   "year": 1996,
+   "year_label": "1996",
+   "year_approx": false,
+   "notes": "From 96 Peel Session, listed as 1993 in the SC booklet",
+   "credit": "R. Pollard-Sprout",
+   "writers": [
+    "R. Pollard",
+    "Sprout"
+   ],
+   "source_location": "Disc 04, track 24",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 4,
+   "suitcase_disc": 4,
+   "track_no": 24,
+   "id": 99
+  },
+  {
+   "band": "Styles We Paid For",
+   "title": "Oh, Blinky",
+   "year": 1989,
+   "year_label": "1989",
+   "year_approx": false,
+   "notes": "Pollard, Demos, Thrasher",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 04, track 25",
+   "collection": "Suitcase 1",
+   "suitcase": 1,
+   "disc": 4,
+   "suitcase_disc": 4,
+   "track_no": 25,
+   "id": 100
+  },
+  {
+   "band": "The Plague",
+   "title": "This Ream",
+   "year": 2001,
+   "year_label": "2001",
+   "year_approx": false,
+   "notes": "Slowed down",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 05, track 01",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 5,
+   "suitcase_disc": 1,
+   "track_no": 1,
+   "id": 101
+  },
+  {
+   "band": "Terror of Living",
+   "title": "Rocket Head",
+   "year": 1988,
+   "year_label": "1988",
+   "year_approx": false,
+   "notes": "Recycled into \"Teenage FBI\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 05, track 02",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 5,
+   "suitcase_disc": 1,
+   "track_no": 2,
+   "id": 102
+  },
+  {
+   "band": "Ragged Enzymes",
+   "title": "The Golden Pickle",
+   "year": 2004,
+   "year_label": "2004",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Tony Conley-R. Phillips",
+   "writers": [
+    "R. Pollard",
+    "Tony Conley",
+    "R. Phillips"
+   ],
+   "source_location": "Disc 05, track 03",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 5,
+   "suitcase_disc": 1,
+   "track_no": 3,
+   "id": 103
+  },
+  {
+   "band": "Hey John, Bees",
+   "title": "Your Charming Proposal",
+   "year": 1996,
+   "year_label": "1996",
+   "year_approx": false,
+   "notes": "Not In My Airforce outtake",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 05, track 04",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 5,
+   "suitcase_disc": 1,
+   "track_no": 4,
+   "id": 104
+  },
+  {
+   "band": "Wim Dials",
+   "title": "Searing Tonight",
+   "year": 1995,
+   "year_label": "1995",
+   "year_approx": false,
+   "notes": "Not in My Airforce demo tape",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 05, track 05",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 5,
+   "suitcase_disc": 1,
+   "track_no": 5,
+   "id": 105
+  },
+  {
+   "band": "Billy Ray Human",
+   "title": "Somewhere Sometime",
+   "year": 1978,
+   "year_label": "1978",
+   "year_approx": false,
+   "notes": "Anacrusis personnel '76-'78",
+   "credit": "R. Pollard-Wendell Napier",
+   "writers": [
+    "R. Pollard",
+    "Wendell Napier"
+   ],
+   "source_location": "Disc 05, track 06",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 5,
+   "suitcase_disc": 1,
+   "track_no": 6,
+   "id": 106
+  },
+  {
+   "band": "Milko Waif",
+   "title": "If You Think It's Easy",
+   "year": 2005,
+   "year_label": "2005",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 05, track 07",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 5,
+   "suitcase_disc": 1,
+   "track_no": 7,
+   "id": 107
+  },
+  {
+   "band": "Wig Stomper",
+   "title": "His Spacetruck is Strange",
+   "year": 1990,
+   "year_label": "1990",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-J. Pollard",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard"
+   ],
+   "source_location": "Disc 05, track 08",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 5,
+   "suitcase_disc": 1,
+   "track_no": 8,
+   "id": 108
+  },
+  {
+   "band": "Child of Joe",
+   "title": "Tin Can Laughter",
+   "year": 2002,
+   "year_label": "2002",
+   "year_approx": false,
+   "notes": "Universal Truths and Cycles demo",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 05, track 09",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 5,
+   "suitcase_disc": 1,
+   "track_no": 9,
+   "id": 109
+  },
+  {
+   "band": "7 Feet of Sunshine",
+   "title": "Sacred Space",
+   "year": 1996,
+   "year_label": "1996",
+   "year_approx": false,
+   "notes": "aka Office of Hearts [demo]",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 05, track 10",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 5,
+   "suitcase_disc": 1,
+   "track_no": 10,
+   "id": 110
+  },
+  {
+   "band": "Bore Co.",
+   "title": "Soul Flyers",
+   "year": 1987,
+   "year_label": "1987",
+   "year_approx": false,
+   "notes": "from the aborted Learning To Hunt LP",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 05, track 11",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 5,
+   "suitcase_disc": 1,
+   "track_no": 11,
+   "id": 111
+  },
+  {
+   "band": "Throne",
+   "title": "Gods of Richard",
+   "year": 1996,
+   "year_label": "1996",
+   "year_approx": false,
+   "notes": "Not in My Airforce outtake",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 05, track 12",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 5,
+   "suitcase_disc": 1,
+   "track_no": 12,
+   "id": 112
+  },
+  {
+   "band": "Scott Joy",
+   "title": "It's Only Up to You",
+   "year": 1987,
+   "year_label": "1987",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 05, track 13",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 5,
+   "suitcase_disc": 1,
+   "track_no": 13,
+   "id": 113
+  },
+  {
+   "band": "Ax",
+   "title": "Dancing With the Answers",
+   "year": 1986,
+   "year_label": "1986",
+   "year_approx": false,
+   "notes": "aka Dancing With My Gun, recycled in \"Big Boring Wedding\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 05, track 14",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 5,
+   "suitcase_disc": 1,
+   "track_no": 14,
+   "id": 114
+  },
+  {
+   "band": "Devron Zones",
+   "title": "Waiting For Your Touch",
+   "year": 1989,
+   "year_label": "1989",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 05, track 15",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 5,
+   "suitcase_disc": 1,
+   "track_no": 15,
+   "id": 115
+  },
+  {
+   "band": "Milko Waif",
+   "title": "Soggy Beavers [Original Version]",
+   "year": 2005,
+   "year_label": "2005",
+   "year_approx": false,
+   "notes": "Boston Spaceships remake on Brown Submarine",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 05, track 16",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 5,
+   "suitcase_disc": 1,
+   "track_no": 16,
+   "id": 116
+  },
+  {
+   "band": "The Bug-Eyed Mums",
+   "title": "Invisible Train to Earth",
+   "year": 2000,
+   "year_label": "2000",
+   "year_approx": false,
+   "notes": "Isolation Drills outtake (sounds like one of the Cro-Mag demos)",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 05, track 17",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 5,
+   "suitcase_disc": 1,
+   "track_no": 17,
+   "id": 117
+  },
+  {
+   "band": "Seraphim Barf",
+   "title": "Stingy Queens",
+   "year": 1996,
+   "year_label": "1996",
+   "year_approx": false,
+   "notes": "Power of Suck demo",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 05, track 18",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 5,
+   "suitcase_disc": 1,
+   "track_no": 18,
+   "id": 118
+  },
+  {
+   "band": "Karma Yeah",
+   "title": "Something for Susan in the Shadows",
+   "year": 1985,
+   "year_label": "1985",
+   "year_approx": false,
+   "notes": "remake on August By Cake titled Dr. Feelgood Falls Off The Ocean",
+   "credit": "R. Pollard-J. Pollard",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard"
+   ],
+   "source_location": "Disc 05, track 19",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 5,
+   "suitcase_disc": 1,
+   "track_no": 19,
+   "id": 119
+  },
+  {
+   "band": "Heavy River",
+   "title": "Sinister Infrared Halo",
+   "year": 1998,
+   "year_label": "1998",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Pete Jameson",
+   "writers": [
+    "R. Pollard",
+    "Pete Jameson"
+   ],
+   "source_location": "Disc 05, track 20",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 5,
+   "suitcase_disc": 1,
+   "track_no": 20,
+   "id": 120
+  },
+  {
+   "band": "Herkimer Mohawk",
+   "title": "Happy at the Drag Strip",
+   "year": 1980,
+   "year_label": "1980",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 05, track 21",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 5,
+   "suitcase_disc": 1,
+   "track_no": 21,
+   "id": 121
+  },
+  {
+   "band": "Apes in the Window",
+   "title": "Arms",
+   "year": 1988,
+   "year_label": "1988",
+   "year_approx": false,
+   "notes": "Self-Inflicted Aerial Nostalgia outtake",
+   "credit": "R. Pollard-J. Pollard-Mitch Mitchell-Bruce Smith",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard",
+    "Mitch Mitchell",
+    "Bruce Smith"
+   ],
+   "source_location": "Disc 05, track 22",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 5,
+   "suitcase_disc": 1,
+   "track_no": 22,
+   "id": 122
+  },
+  {
+   "band": "Yummy Ropes",
+   "title": "Solid Gold Animal Collection",
+   "year": 1983,
+   "year_label": "1983",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 05, track 23",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 5,
+   "suitcase_disc": 1,
+   "track_no": 23,
+   "id": 123
+  },
+  {
+   "band": "Some Are Bullets in Dreams",
+   "title": "Beach Towers",
+   "year": 1988,
+   "year_label": "1988",
+   "year_approx": false,
+   "notes": "Self-Inflicted Aerial Nostalgia outtake. Partially recycled melody into Cosmos' \"Nude Metropolis\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 05, track 24",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 5,
+   "suitcase_disc": 1,
+   "track_no": 24,
+   "id": 124
+  },
+  {
+   "band": "Bleep Bleep F*ck",
+   "title": "Cosmic Clown",
+   "year": 1978,
+   "year_label": "1978",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Wendell Napier",
+   "writers": [
+    "R. Pollard",
+    "Wendell Napier"
+   ],
+   "source_location": "Disc 05, track 25",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 5,
+   "suitcase_disc": 1,
+   "track_no": 25,
+   "id": 125
+  },
+  {
+   "band": "Timid Virus",
+   "title": "I Am Decided",
+   "year": 1996,
+   "year_label": "1996",
+   "year_approx": false,
+   "notes": "Power of Suck demo",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 06, track 01",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 6,
+   "suitcase_disc": 2,
+   "track_no": 1,
+   "id": 126
+  },
+  {
+   "band": "Mutts U.K.",
+   "title": "Tainted Angels With Butter Knives",
+   "year": 1997,
+   "year_label": "1997",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Mitch Mitchell-Fennell",
+   "writers": [
+    "R. Pollard",
+    "Mitch Mitchell",
+    "Fennell"
+   ],
+   "source_location": "Disc 06, track 02",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 6,
+   "suitcase_disc": 2,
+   "track_no": 2,
+   "id": 127
+  },
+  {
+   "band": "Brainbow",
+   "title": "What About the Rock?",
+   "year": 1987,
+   "year_label": "1987",
+   "year_approx": false,
+   "notes": "message - '97, music - '87 aka World's Coolest Rock Star",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 06, track 03",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 6,
+   "suitcase_disc": 2,
+   "track_no": 3,
+   "id": 128
+  },
+  {
+   "band": "Scott Joy",
+   "title": "Pack of Rolling Papers",
+   "year": 1991,
+   "year_label": "1991",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 06, track 04",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 6,
+   "suitcase_disc": 2,
+   "track_no": 4,
+   "id": 129
+  },
+  {
+   "band": "The One Too Many",
+   "title": "Telephone Town",
+   "year": 1987,
+   "year_label": "1987",
+   "year_approx": false,
+   "notes": "recycled bit from \"Where I Come From\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 06, track 05",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 6,
+   "suitcase_disc": 2,
+   "track_no": 5,
+   "id": 130
+  },
+  {
+   "band": "The Pukes",
+   "title": "Hey, I Know Your Old Lady",
+   "year": 1979,
+   "year_label": "1979",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 06, track 06",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 6,
+   "suitcase_disc": 2,
+   "track_no": 6,
+   "id": 131
+  },
+  {
+   "band": "Dale Frescamo",
+   "title": "Headache Revolution [Original Version]",
+   "year": 2001,
+   "year_label": "2001",
+   "year_approx": false,
+   "notes": "Boston Spaceships remake on The Planets Are Blasted",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 06, track 07",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 6,
+   "suitcase_disc": 2,
+   "track_no": 7,
+   "id": 132
+  },
+  {
+   "band": "Stumpy in the Ocean",
+   "title": "Every Man",
+   "year": 1985,
+   "year_label": "1985",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 06, track 08",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 6,
+   "suitcase_disc": 2,
+   "track_no": 8,
+   "id": 133
+  },
+  {
+   "band": "Milko Waif",
+   "title": "Alibible",
+   "year": 2005,
+   "year_label": "2005",
+   "year_approx": false,
+   "notes": "Psycho & the Birds version on All That is Holy (same track with overdubs)",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 06, track 09",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 6,
+   "suitcase_disc": 2,
+   "track_no": 9,
+   "id": 134
+  },
+  {
+   "band": "Ben Zing",
+   "title": "I Can't Help But Noticing",
+   "year": 1989,
+   "year_label": "1989",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 06, track 10",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 6,
+   "suitcase_disc": 2,
+   "track_no": 10,
+   "id": 135
+  },
+  {
+   "band": "Red Faced Rats",
+   "title": "Mannequin's Complaint",
+   "year": 1997,
+   "year_label": "1997",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 06, track 11",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 6,
+   "suitcase_disc": 2,
+   "track_no": 11,
+   "id": 136
+  },
+  {
+   "band": "U B Hitler",
+   "title": "Zarkoff's Coming",
+   "year": 1989,
+   "year_label": "1989",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-J. Pollard",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard"
+   ],
+   "source_location": "Disc 06, track 12",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 6,
+   "suitcase_disc": 2,
+   "track_no": 12,
+   "id": 137
+  },
+  {
+   "band": "Acid Ranch",
+   "title": "Supersonic Love Funky Love Gun",
+   "year": 1980,
+   "year_label": "1980",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 06, track 13",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 6,
+   "suitcase_disc": 2,
+   "track_no": 13,
+   "id": 138
+  },
+  {
+   "band": "The Bad Babies",
+   "title": "Perch Warble [Studio Version]",
+   "year": 1993,
+   "year_label": "1993",
+   "year_approx": false,
+   "notes": "Back To Saturn X/Alt. Bee Thousand",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 06, track 14",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 6,
+   "suitcase_disc": 2,
+   "track_no": 14,
+   "id": 139
+  },
+  {
+   "band": "Scott Joy",
+   "title": "You're Not the Queen Anymore",
+   "year": 1995,
+   "year_label": "1995",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 06, track 15",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 6,
+   "suitcase_disc": 2,
+   "track_no": 15,
+   "id": 140
+  },
+  {
+   "band": "Throne",
+   "title": "Ivanhoe",
+   "year": 1990,
+   "year_label": "1990",
+   "year_approx": false,
+   "notes": "Instrumental version of \"No Trash Allowed\" (SC3) and \"Jancy\" (Takeovers)",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 06, track 16",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 6,
+   "suitcase_disc": 2,
+   "track_no": 16,
+   "id": 141
+  },
+  {
+   "band": "Herkimer Mohawk",
+   "title": "How Can You?",
+   "year": 1982,
+   "year_label": "1982",
+   "year_approx": false,
+   "notes": "Slave Your Beetle Brain forwards",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 06, track 17",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 6,
+   "suitcase_disc": 2,
+   "track_no": 17,
+   "id": 142
+  },
+  {
+   "band": "Shoot'em",
+   "title": "The Lodger Carried a Gun",
+   "year": 1987,
+   "year_label": "1987",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-J. Pollard-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 06, track 18",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 6,
+   "suitcase_disc": 2,
+   "track_no": 18,
+   "id": 143
+  },
+  {
+   "band": "Modular Dance Units",
+   "title": "Metro XVI",
+   "year": 1980,
+   "year_label": "1980",
+   "year_approx": false,
+   "notes": "Partially recycled melody into Cosmos' \"Nude Metropolis\"",
+   "credit": "R. Pollard-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 06, track 19",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 6,
+   "suitcase_disc": 2,
+   "track_no": 19,
+   "id": 144
+  },
+  {
+   "band": "Milko Waif",
+   "title": "My Dream Making Machine",
+   "year": 2005,
+   "year_label": "2005",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 06, track 20",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 6,
+   "suitcase_disc": 2,
+   "track_no": 20,
+   "id": 145
+  },
+  {
+   "band": "Usually to Death",
+   "title": "Mustard Man",
+   "year": 1985,
+   "year_label": "1985",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 06, track 21",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 6,
+   "suitcase_disc": 2,
+   "track_no": 21,
+   "id": 146
+  },
+  {
+   "band": "Wheels Pig Harvey",
+   "title": "Alone in Time",
+   "year": 1992,
+   "year_label": "1992",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 06, track 22",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 6,
+   "suitcase_disc": 2,
+   "track_no": 22,
+   "id": 147
+  },
+  {
+   "band": "The Plexigrall Bee-hive",
+   "title": "Dusty Bushworms [Different Version]",
+   "year": 1993,
+   "year_label": "1993",
+   "year_approx": false,
+   "notes": "Back To Saturn X",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 06, track 23",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 6,
+   "suitcase_disc": 2,
+   "track_no": 23,
+   "id": 148
+  },
+  {
+   "band": "Wheels Pig Harvey",
+   "title": "Free It",
+   "year": 1992,
+   "year_label": "1992",
+   "year_approx": false,
+   "notes": "Same song as \"This View\" on Suitcase 1",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 06, track 24",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 6,
+   "suitcase_disc": 2,
+   "track_no": 24,
+   "id": 149
+  },
+  {
+   "band": "Christopher Lightship",
+   "title": "Are You Faster? [Demo]",
+   "year": 1996,
+   "year_label": "1996",
+   "year_approx": false,
+   "notes": "Power of Suck demo",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 06, track 25",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 6,
+   "suitcase_disc": 2,
+   "track_no": 25,
+   "id": 150
+  },
+  {
+   "band": "The Fake Organisms",
+   "title": "A Proud and Booming Industry",
+   "year": 1987,
+   "year_label": "1987",
+   "year_approx": false,
+   "notes": "allegedly supposed to a B-side for \"Captain's Dead\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 07, track 01",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 7,
+   "suitcase_disc": 3,
+   "track_no": 1,
+   "id": 151
+  },
+  {
+   "band": "We Too Bark",
+   "title": "Two or Three Songs",
+   "year": 1988,
+   "year_label": "1988",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 07, track 02",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 7,
+   "suitcase_disc": 3,
+   "track_no": 2,
+   "id": 152
+  },
+  {
+   "band": "Milko Waif",
+   "title": "Little Games",
+   "year": 2005,
+   "year_label": "2005",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 07, track 03",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 7,
+   "suitcase_disc": 3,
+   "track_no": 3,
+   "id": 153
+  },
+  {
+   "band": "Ax",
+   "title": "Daughter of the Gold Rush",
+   "year": 1987,
+   "year_label": "1987",
+   "year_approx": false,
+   "notes": "aka Solid Soil, recycled into \"Volcano Divers\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 07, track 04",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 7,
+   "suitcase_disc": 3,
+   "track_no": 4,
+   "id": 154
+  },
+  {
+   "band": "Leon Lemans",
+   "title": "Color Coat Drawing",
+   "year": 2000,
+   "year_label": "2000",
+   "year_approx": false,
+   "notes": "Developed into \"Frostman\" over time",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 07, track 05",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 7,
+   "suitcase_disc": 3,
+   "track_no": 5,
+   "id": 155
+  },
+  {
+   "band": "Silent Knife",
+   "title": "Learning to Burn",
+   "year": 1981,
+   "year_label": "1981",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 07, track 06",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 7,
+   "suitcase_disc": 3,
+   "track_no": 6,
+   "id": 156
+  },
+  {
+   "band": "Howling Wolf Orchestra",
+   "title": null,
+   "year": 2000,
+   "year_label": "2000",
+   "year_approx": false,
+   "notes": "Lyrics reused for \"Wire Greyhounds\"",
+   "credit": "R. Pollard-J. Pollard-Farley",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard",
+    "Farley"
+   ],
+   "source_location": "Disc 07, track 07",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 7,
+   "suitcase_disc": 3,
+   "track_no": 7,
+   "id": 157
+  },
+  {
+   "band": "The Needmores",
+   "title": "I'd Choose You",
+   "year": 1984,
+   "year_label": "1984",
+   "year_approx": false,
+   "notes": "remade into \"Heavy Like the World\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 07, track 08",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 7,
+   "suitcase_disc": 3,
+   "track_no": 8,
+   "id": 158
+  },
+  {
+   "band": "Wavo",
+   "title": "You're Killin' Me",
+   "year": 1980,
+   "year_label": "1980",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 07, track 09",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 7,
+   "suitcase_disc": 3,
+   "track_no": 9,
+   "id": 159
+  },
+  {
+   "band": "Lectricalroo",
+   "title": "Old Friend",
+   "year": 1984,
+   "year_label": "1984",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-J. Pollard-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 07, track 10",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 7,
+   "suitcase_disc": 3,
+   "track_no": 10,
+   "id": 160
+  },
+  {
+   "band": "Devron Zones",
+   "title": "She Don't Shit (No Golden Bricks For Me)",
+   "year": 1987,
+   "year_label": "1987",
+   "year_approx": false,
+   "notes": "Remade as \"Trampoline\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 07, track 11",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 7,
+   "suitcase_disc": 3,
+   "track_no": 11,
+   "id": 161
+  },
+  {
+   "band": "Milko Waif",
+   "title": "I Have a Hard Heart",
+   "year": 2005,
+   "year_label": "2005",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 07, track 12",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 7,
+   "suitcase_disc": 3,
+   "track_no": 12,
+   "id": 162
+  },
+  {
+   "band": "The One Too Many",
+   "title": "Shoddy Clothes",
+   "year": 1987,
+   "year_label": "1987",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 07, track 13",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 7,
+   "suitcase_disc": 3,
+   "track_no": 13,
+   "id": 163
+  },
+  {
+   "band": "The Plague",
+   "title": "Sordid Forst",
+   "year": 2001,
+   "year_label": "2001",
+   "year_approx": false,
+   "notes": "Slowed down",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 07, track 14",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 7,
+   "suitcase_disc": 3,
+   "track_no": 14,
+   "id": 164
+  },
+  {
+   "band": "The Needmores",
+   "title": "Shake It Out",
+   "year": 1984,
+   "year_label": "1984",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 07, track 15",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 7,
+   "suitcase_disc": 3,
+   "track_no": 15,
+   "id": 165
+  },
+  {
+   "band": "The Accidental Texas Who",
+   "title": "Cowboy Zoo",
+   "year": 2004,
+   "year_label": "2004",
+   "year_approx": false,
+   "notes": "Remade as \"The Accidental Texas Who\" on Normal Happiness",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 07, track 16",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 7,
+   "suitcase_disc": 3,
+   "track_no": 16,
+   "id": 166
+  },
+  {
+   "band": "Peter Built Bombs",
+   "title": "Soul Barn",
+   "year": 1987,
+   "year_label": "1987",
+   "year_approx": false,
+   "notes": "Incorporates riff from \"Invest in British Steel,\" also heard in \"Break Even\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 07, track 17",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 7,
+   "suitcase_disc": 3,
+   "track_no": 17,
+   "id": 167
+  },
+  {
+   "band": "Modular Dance Units",
+   "title": "Phase IV (Rise of the Ants)",
+   "year": 1980,
+   "year_label": "1980",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 07, track 18",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 7,
+   "suitcase_disc": 3,
+   "track_no": 18,
+   "id": 168
+  },
+  {
+   "band": "Burial Wind",
+   "title": "Piece",
+   "year": 1980,
+   "year_label": "1980",
+   "year_approx": false,
+   "notes": "instrumental",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 07, track 19",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 7,
+   "suitcase_disc": 3,
+   "track_no": 19,
+   "id": 169
+  },
+  {
+   "band": "Sucko",
+   "title": "Lonely Town",
+   "year": 1987,
+   "year_label": "1987",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 07, track 20",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 7,
+   "suitcase_disc": 3,
+   "track_no": 20,
+   "id": 170
+  },
+  {
+   "band": "Wavo",
+   "title": "Do Be",
+   "year": 1980,
+   "year_label": "1980",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 07, track 21",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 7,
+   "suitcase_disc": 3,
+   "track_no": 21,
+   "id": 171
+  },
+  {
+   "band": "Academy of Crowsfeet",
+   "title": "Boston Spaceships",
+   "year": 1991,
+   "year_label": "1991",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Mitch Mitchell-Sprout-J. Pollard",
+   "writers": [
+    "R. Pollard",
+    "Mitch Mitchell",
+    "Sprout",
+    "J. Pollard"
+   ],
+   "source_location": "Disc 07, track 22",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 7,
+   "suitcase_disc": 3,
+   "track_no": 22,
+   "id": 172
+  },
+  {
+   "band": "Scott Joy",
+   "title": "Drugs & Eggs",
+   "year": 1993,
+   "year_label": "1993",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 07, track 23",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 7,
+   "suitcase_disc": 3,
+   "track_no": 23,
+   "id": 173
+  },
+  {
+   "band": "Stumpy in the Ocean",
+   "title": "That Ain't No Good",
+   "year": 1985,
+   "year_label": "1985",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 07, track 24",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 7,
+   "suitcase_disc": 3,
+   "track_no": 24,
+   "id": 174
+  },
+  {
+   "band": "Alvin Haisles",
+   "title": "Immediate Frozen Lookalikes",
+   "year": 2004,
+   "year_label": "2004",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 07, track 25",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 7,
+   "suitcase_disc": 3,
+   "track_no": 25,
+   "id": 175
+  },
+  {
+   "band": "7 Feet of Sunshine",
+   "title": "Madroom Assistance",
+   "year": 1996,
+   "year_label": "1996",
+   "year_approx": false,
+   "notes": "aka Talk To Me",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 08, track 01",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 8,
+   "suitcase_disc": 4,
+   "track_no": 1,
+   "id": 176
+  },
+  {
+   "band": "Praying Man vs. Bo Diddley",
+   "title": "Man of Dimension",
+   "year": 1980,
+   "year_label": "1980",
+   "year_approx": false,
+   "notes": "One of 86's originals",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 08, track 02",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 8,
+   "suitcase_disc": 4,
+   "track_no": 2,
+   "id": 177
+  },
+  {
+   "band": "Alvin Haisles",
+   "title": "Nerve Gas",
+   "year": 2004,
+   "year_label": "2004",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 08, track 03",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 8,
+   "suitcase_disc": 4,
+   "track_no": 3,
+   "id": 178
+  },
+  {
+   "band": "The Fun Punk 5",
+   "title": "Do The Ball",
+   "year": 1991,
+   "year_label": "1991",
+   "year_approx": false,
+   "notes": "Remade as \"Hunter Complex\"",
+   "credit": "R. Pollard-J. Pollard-Mitch Mitchell-Sprout-Gianaupolis",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard",
+    "Mitch Mitchell",
+    "Sprout",
+    "Gianaupolis"
+   ],
+   "source_location": "Disc 08, track 04",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 8,
+   "suitcase_disc": 4,
+   "track_no": 4,
+   "id": 179
+  },
+  {
+   "band": "Peter Built Bombs",
+   "title": "The Issue Presents Itself",
+   "year": 1987,
+   "year_label": "1987",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-J. Pollard-Sprout",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard",
+    "Sprout"
+   ],
+   "source_location": "Disc 08, track 05",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 8,
+   "suitcase_disc": 4,
+   "track_no": 5,
+   "id": 180
+  },
+  {
+   "band": "The Banana Show",
+   "title": "Leprechaun Catfish Fighter",
+   "year": 2005,
+   "year_label": "2005",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 08, track 06",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 8,
+   "suitcase_disc": 4,
+   "track_no": 6,
+   "id": 181
+  },
+  {
+   "band": "Leon Lemans",
+   "title": "Child",
+   "year": 2002,
+   "year_label": "2002",
+   "year_approx": false,
+   "notes": "Instrumental version used as intro to \"Aerial\" on Choreographed Man of War",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 08, track 07",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 8,
+   "suitcase_disc": 4,
+   "track_no": 7,
+   "id": 182
+  },
+  {
+   "band": "Howling Wolf Orchestra",
+   "title": "Invisible Exercise",
+   "year": 2000,
+   "year_label": "2000",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-J. Pollard-Farley",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard",
+    "Farley"
+   ],
+   "source_location": "Disc 08, track 08",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 8,
+   "suitcase_disc": 4,
+   "track_no": 8,
+   "id": 183
+  },
+  {
+   "band": "Carl Goffin",
+   "title": "All Around the World",
+   "year": 1979,
+   "year_label": "1979",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 08, track 09",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 8,
+   "suitcase_disc": 4,
+   "track_no": 9,
+   "id": 184
+  },
+  {
+   "band": "Alvin Haisles",
+   "title": "Late Night Scamerica",
+   "year": 2005,
+   "year_label": "2005",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 08, track 10",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 8,
+   "suitcase_disc": 4,
+   "track_no": 10,
+   "id": 185
+  },
+  {
+   "band": "Stumpy in the Ocean",
+   "title": "A World of My Own",
+   "year": 1985,
+   "year_label": "1985",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 08, track 11",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 8,
+   "suitcase_disc": 4,
+   "track_no": 11,
+   "id": 186
+  },
+  {
+   "band": "Milko Waif",
+   "title": "She's The One",
+   "year": 2005,
+   "year_label": "2005",
+   "year_approx": false,
+   "notes": "\"Gasoline Ragtime\" on Normal Happiness",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 08, track 12",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 8,
+   "suitcase_disc": 4,
+   "track_no": 12,
+   "id": 187
+  },
+  {
+   "band": "7 Dog 3",
+   "title": "Daddy's In The State Pen",
+   "year": 1977,
+   "year_label": "1977",
+   "year_approx": false,
+   "notes": null,
+   "credit": null,
+   "writers": [],
+   "source_location": "Disc 08, track 13",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 8,
+   "suitcase_disc": 4,
+   "track_no": 13,
+   "id": 188
+  },
+  {
+   "band": "The One Too Many",
+   "title": "Cox Municipal Airport Song",
+   "year": 1988,
+   "year_label": "1988",
+   "year_approx": false,
+   "notes": "Partially remade as \"Tight Globes\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 08, track 14",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 8,
+   "suitcase_disc": 4,
+   "track_no": 14,
+   "id": 189
+  },
+  {
+   "band": "Gene Autrey's Psychic",
+   "title": "Scare Me No. 3",
+   "year": 2004,
+   "year_label": "2004",
+   "year_approx": false,
+   "notes": "Half Smiles demo outtake",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 08, track 15",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 8,
+   "suitcase_disc": 4,
+   "track_no": 15,
+   "id": 190
+  },
+  {
+   "band": "Manimal",
+   "title": "Grope",
+   "year": 1991,
+   "year_label": "1991",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-R. Campbell-J. Pollard",
+   "writers": [
+    "R. Pollard",
+    "R. Campbell",
+    "J. Pollard"
+   ],
+   "source_location": "Disc 08, track 16",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 8,
+   "suitcase_disc": 4,
+   "track_no": 16,
+   "id": 191
+  },
+  {
+   "band": "God's Little Lightning Bolt",
+   "title": "Heavy Crown [Original Version]",
+   "year": 1991,
+   "year_label": "1991",
+   "year_approx": false,
+   "notes": "Boston Spaceships remake on The Planets Are Blasted",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 08, track 17",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 8,
+   "suitcase_disc": 4,
+   "track_no": 17,
+   "id": 192
+  },
+  {
+   "band": "Wim Dials",
+   "title": "So Roll Me Over",
+   "year": 1995,
+   "year_label": "1995",
+   "year_approx": false,
+   "notes": "Not in My Airforce demo tape",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 08, track 18",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 8,
+   "suitcase_disc": 4,
+   "track_no": 18,
+   "id": 193
+  },
+  {
+   "band": "The Inbrids",
+   "title": "Home By Ten",
+   "year": 1992,
+   "year_label": "1992",
+   "year_approx": false,
+   "notes": "Propeller outtake, remake on August By Cake titled When We All Hold Hands At The End Of The World",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 08, track 19",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 8,
+   "suitcase_disc": 4,
+   "track_no": 19,
+   "id": 194
+  },
+  {
+   "band": "Milko Waif",
+   "title": "Come Make My Shadow",
+   "year": 2005,
+   "year_label": "2005",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 08, track 20",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 8,
+   "suitcase_disc": 4,
+   "track_no": 20,
+   "id": 195
+  },
+  {
+   "band": "The One Too Many",
+   "title": "Paper Girl [Different Version]",
+   "year": 1988,
+   "year_label": "1988",
+   "year_approx": false,
+   "notes": "possibly the Learning To Hunt version",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 08, track 21",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 8,
+   "suitcase_disc": 4,
+   "track_no": 21,
+   "id": 196
+  },
+  {
+   "band": "Yummy Ropes",
+   "title": "Jimmy's Einstein Poster",
+   "year": 1996,
+   "year_label": "1996",
+   "year_approx": false,
+   "notes": "written in 1989, this recording from Not in My Airforce demo tape",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 08, track 22",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 8,
+   "suitcase_disc": 4,
+   "track_no": 22,
+   "id": 197
+  },
+  {
+   "band": "Hot Skin Apartment",
+   "title": "My Only Confection",
+   "year": 1987,
+   "year_label": "1987",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-J. Pollard",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard"
+   ],
+   "source_location": "Disc 08, track 23",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 8,
+   "suitcase_disc": 4,
+   "track_no": 23,
+   "id": 198
+  },
+  {
+   "band": "Otim Grimes",
+   "title": "Groundwork",
+   "year": 1984,
+   "year_label": "1984",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 08, track 24",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 8,
+   "suitcase_disc": 4,
+   "track_no": 24,
+   "id": 199
+  },
+  {
+   "band": "The Fun Punk 5",
+   "title": "Bye Bye Song",
+   "year": 1991,
+   "year_label": "1991",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Mitch Mitchell-Sprout-J. Pollard",
+   "writers": [
+    "R. Pollard",
+    "Mitch Mitchell",
+    "Sprout",
+    "J. Pollard"
+   ],
+   "source_location": "Disc 08, track 25",
+   "collection": "Suitcase 2",
+   "suitcase": 2,
+   "disc": 8,
+   "suitcase_disc": 4,
+   "track_no": 25,
+   "id": 200
+  },
+  {
+   "band": "Mr. Inspection Table",
+   "title": "Building a Castle",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "GBV remake as \"Up Instead of Running\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 09, track 01",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 9,
+   "suitcase_disc": 1,
+   "track_no": 1,
+   "id": 201
+  },
+  {
+   "band": "Explosion Topic",
+   "title": "Tired of Knocking",
+   "year": 2009,
+   "year_label": "2009",
+   "year_approx": false,
+   "notes": "Elephant Jokes outtake",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 09, track 02",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 9,
+   "suitcase_disc": 1,
+   "track_no": 2,
+   "id": 202
+  },
+  {
+   "band": "The Sobbers",
+   "title": "Together/Apart",
+   "year": 1984,
+   "year_label": "1984",
+   "year_approx": false,
+   "notes": "From Pissing in the Canal",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 09, track 03",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 9,
+   "suitcase_disc": 1,
+   "track_no": 3,
+   "id": 203
+  },
+  {
+   "band": "Remington Ash",
+   "title": "Away With Driver",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Partially recycled in \"Your Rate Will Never Go Up\" on We All Got Out Of The Army",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 09, track 04",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 9,
+   "suitcase_disc": 1,
+   "track_no": 4,
+   "id": 204
+  },
+  {
+   "band": "Demon Gods of Anger",
+   "title": "Trash Truck",
+   "year": 1991,
+   "year_label": "1991",
+   "year_approx": false,
+   "notes": "\"Conspiracy Of The Machine Operators\"",
+   "credit": "R. Pollard-J. Pollard-Sprout-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard",
+    "Sprout",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 09, track 05",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 9,
+   "suitcase_disc": 1,
+   "track_no": 5,
+   "id": 205
+  },
+  {
+   "band": "Manners of Flash",
+   "title": "Dropping the Bomb",
+   "year": 2009,
+   "year_label": "2009",
+   "year_approx": false,
+   "notes": "Elephant Jokes outtake",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 09, track 06",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 9,
+   "suitcase_disc": 1,
+   "track_no": 6,
+   "id": 206
+  },
+  {
+   "band": "Remington Ash",
+   "title": "What's So Safe About You?",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 09, track 07",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 9,
+   "suitcase_disc": 1,
+   "track_no": 7,
+   "id": 207
+  },
+  {
+   "band": "Limited Transplitter",
+   "title": "Troopers in the Town",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "played live in May of '86",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 09, track 08",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 9,
+   "suitcase_disc": 1,
+   "track_no": 8,
+   "id": 208
+  },
+  {
+   "band": "The Stools",
+   "title": "Gas",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Intro recycled in \"Too Much Fun\" on The Crawling Distance",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 09, track 09",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 9,
+   "suitcase_disc": 1,
+   "track_no": 9,
+   "id": 209
+  },
+  {
+   "band": "C.C. Rip",
+   "title": "Watchin' 'Em Diggin' Up the Road",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 09, track 10",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 9,
+   "suitcase_disc": 1,
+   "track_no": 10,
+   "id": 210
+  },
+  {
+   "band": "Fate 1 Mile",
+   "title": "Coastal Town",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Recycled as \"Closer You Are\" on Alien Lanes",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 09, track 11",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 9,
+   "suitcase_disc": 1,
+   "track_no": 11,
+   "id": 211
+  },
+  {
+   "band": "Watts",
+   "title": "Escape From Kama Loka",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "2003 or 2004 Sea of Dead (demo?)",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 09, track 12",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 9,
+   "suitcase_disc": 1,
+   "track_no": 12,
+   "id": 212
+  },
+  {
+   "band": "Ben Franklin Air Bath",
+   "title": "The Annex",
+   "year": 2009,
+   "year_label": "2009",
+   "year_approx": false,
+   "notes": "Elephant Jokes outtake",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 09, track 13",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 9,
+   "suitcase_disc": 1,
+   "track_no": 13,
+   "id": 213
+  },
+  {
+   "band": "Major Cockamamie",
+   "title": "Green Ivory Cross",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "2005?",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 09, track 14",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 9,
+   "suitcase_disc": 1,
+   "track_no": 14,
+   "id": 214
+  },
+  {
+   "band": "The Beautiful Orange Lemonade",
+   "title": "Janet Wait",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Early 80s?",
+   "credit": "R. Pollard-J. Pollard",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard"
+   ],
+   "source_location": "Disc 09, track 15",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 9,
+   "suitcase_disc": 1,
+   "track_no": 15,
+   "id": 215
+  },
+  {
+   "band": "C.C. Rip",
+   "title": "Independent Productions",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 09, track 16",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 9,
+   "suitcase_disc": 1,
+   "track_no": 16,
+   "id": 216
+  },
+  {
+   "band": "Jubilant Toy Soldiers",
+   "title": "Thee White Flower",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 09, track 17",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 9,
+   "suitcase_disc": 1,
+   "track_no": 17,
+   "id": 217
+  },
+  {
+   "band": "Pilthy May",
+   "title": "Juggernaut vs. Monolith",
+   "year": 2011,
+   "year_label": "2011",
+   "year_approx": false,
+   "notes": "Boston Spaceships remake on Let It Beard",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 09, track 18",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 9,
+   "suitcase_disc": 1,
+   "track_no": 18,
+   "id": 218
+  },
+  {
+   "band": "The Perfect Nose Club",
+   "title": "Feels Good",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 09, track 19",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 9,
+   "suitcase_disc": 1,
+   "track_no": 19,
+   "id": 219
+  },
+  {
+   "band": "Video Bearhunt",
+   "title": "Candy Machine",
+   "year": 2009,
+   "year_label": "2009",
+   "year_approx": false,
+   "notes": "Elephant Jokes outtake",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 09, track 20",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 9,
+   "suitcase_disc": 1,
+   "track_no": 20,
+   "id": 220
+  },
+  {
+   "band": "Dream Reaper",
+   "title": "Air and Also a World",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-J. Pollard-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 09, track 21",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 9,
+   "suitcase_disc": 1,
+   "track_no": 21,
+   "id": 221
+  },
+  {
+   "band": "Gel Clay",
+   "title": "Back to the Navy",
+   "year": 2002,
+   "year_label": "2002",
+   "year_approx": false,
+   "notes": "Universal Truths and Cycles demo",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 09, track 22",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 9,
+   "suitcase_disc": 1,
+   "track_no": 22,
+   "id": 222
+  },
+  {
+   "band": "The Govenors",
+   "title": "Speak Like Men",
+   "year": 1995,
+   "year_label": "1995",
+   "year_approx": false,
+   "notes": "Power of Suck demo",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 09, track 23",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 9,
+   "suitcase_disc": 1,
+   "track_no": 23,
+   "id": 223
+  },
+  {
+   "band": "Kelsey Boo Flip",
+   "title": "Hi, I'm Kelsey",
+   "year": 2008,
+   "year_label": "2008",
+   "year_approx": false,
+   "notes": "We've Moved outtake",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 09, track 24",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 9,
+   "suitcase_disc": 1,
+   "track_no": 24,
+   "id": 224
+  },
+  {
+   "band": "Star of Hungry",
+   "title": "No Trash Allowed",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Same instrumental as \"Ivanhoe\" and \"Jancy\" - 1990-ish",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 09, track 25",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 9,
+   "suitcase_disc": 1,
+   "track_no": 25,
+   "id": 225
+  },
+  {
+   "band": "The Flattering Lights",
+   "title": "Raphael Muzak",
+   "year": 2000,
+   "year_label": "2000",
+   "year_approx": false,
+   "notes": "\"Raphael\" from SC1 with Gillard electric guitar",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 10, track 01",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 10,
+   "suitcase_disc": 2,
+   "track_no": 1,
+   "id": 226
+  },
+  {
+   "band": "Service of a Bullet",
+   "title": "Tear the Ticket in Half",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Mid to early-80s. Same basic song as Acid Ranch's \"Doctor Moon\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 10, track 02",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 10,
+   "suitcase_disc": 2,
+   "track_no": 2,
+   "id": 227
+  },
+  {
+   "band": "Search",
+   "title": "I'm An Acting Student",
+   "year": 2005,
+   "year_label": "2005",
+   "year_approx": false,
+   "notes": "\"Searchlight Pickups\" on Bubble -- Most likely among the post-FACE demos, so 2004 or 2005.",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 10, track 03",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 10,
+   "suitcase_disc": 2,
+   "track_no": 3,
+   "id": 228
+  },
+  {
+   "band": "The Sums",
+   "title": "I'll Come (And When It Does It's Mine)",
+   "year": 2009,
+   "year_label": "2009",
+   "year_approx": false,
+   "notes": "Elephant Jokes outtake",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 10, track 04",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 10,
+   "suitcase_disc": 2,
+   "track_no": 4,
+   "id": 229
+  },
+  {
+   "band": "East Dayton Rock Co.",
+   "title": "Psychlophobia",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Campbell",
+   "writers": [
+    "R. Campbell"
+   ],
+   "source_location": "Disc 10, track 05",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 10,
+   "suitcase_disc": 2,
+   "track_no": 5,
+   "id": 230
+  },
+  {
+   "band": "East Dayton Rock Co.",
+   "title": "Take Me Back",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Campbell-R. Pollard",
+   "writers": [
+    "R. Campbell",
+    "R. Pollard"
+   ],
+   "source_location": "Disc 10, track 06",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 10,
+   "suitcase_disc": 2,
+   "track_no": 6,
+   "id": 231
+  },
+  {
+   "band": "Bruce Smitty Smith",
+   "title": "Sonny the Monster",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Bruce \"Smitty\" Smith on vocals, cover of an Anacrusis song",
+   "credit": "R. Pollard-Tony Conley-Bruce Smith",
+   "writers": [
+    "R. Pollard",
+    "Tony Conley",
+    "Bruce Smith"
+   ],
+   "source_location": "Disc 10, track 07",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 10,
+   "suitcase_disc": 2,
+   "track_no": 7,
+   "id": 232
+  },
+  {
+   "band": "Pilthy May",
+   "title": "I Share a Rhythm",
+   "year": 2006,
+   "year_label": "2006",
+   "year_approx": false,
+   "notes": "Silverfish Trivia demo (per Hot Freaks Week 23)",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 10, track 08",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 10,
+   "suitcase_disc": 2,
+   "track_no": 8,
+   "id": 233
+  },
+  {
+   "band": "The Sobbers",
+   "title": "Before My Eyes",
+   "year": 1984,
+   "year_label": "1984",
+   "year_approx": false,
+   "notes": "From Pissing in the Canal",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 10, track 09",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 10,
+   "suitcase_disc": 2,
+   "track_no": 9,
+   "id": 234
+  },
+  {
+   "band": "Gavin Speaks",
+   "title": "Freedom Rings",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Boston Spaceships remake on Our Cubehouse Still Rocks. Partial melody used in \"You First\" on Ringworm Interiors.",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 10, track 10",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 10,
+   "suitcase_disc": 2,
+   "track_no": 10,
+   "id": 235
+  },
+  {
+   "band": "Hoof",
+   "title": "Cochise",
+   "year": 2009,
+   "year_label": "2009",
+   "year_approx": false,
+   "notes": "Elephant Jokes outtake",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 10, track 11",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 10,
+   "suitcase_disc": 2,
+   "track_no": 11,
+   "id": 236
+  },
+  {
+   "band": "The Tallywackers",
+   "title": "When's the Last Time?",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Related to \"Stumbling Blocks Into Stepping Stones\" and \"The Terrible Two\" - Likely mid 80s",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 10, track 12",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 10,
+   "suitcase_disc": 2,
+   "track_no": 12,
+   "id": 237
+  },
+  {
+   "band": "Remington Ash",
+   "title": "That's Good",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "GBV remake on Space Gun",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 10, track 13",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 10,
+   "suitcase_disc": 2,
+   "track_no": 13,
+   "id": 238
+  },
+  {
+   "band": "Pig Lucy",
+   "title": "You Gotta Lotta Nerve",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 10, track 14",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 10,
+   "suitcase_disc": 2,
+   "track_no": 14,
+   "id": 239
+  },
+  {
+   "band": "Mother's Day Haircut",
+   "title": "Vagabond Lover",
+   "year": 1979,
+   "year_label": "1979",
+   "year_approx": false,
+   "notes": "86 track",
+   "credit": "Nick Weiser",
+   "writers": [
+    "Nick Weiser"
+   ],
+   "source_location": "Disc 10, track 15",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 10,
+   "suitcase_disc": 2,
+   "track_no": 15,
+   "id": 240
+  },
+  {
+   "band": "Fate 1 Mile",
+   "title": "Banners",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 10, track 16",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 10,
+   "suitcase_disc": 2,
+   "track_no": 16,
+   "id": 241
+  },
+  {
+   "band": "Looker",
+   "title": "100 Colors",
+   "year": 2009,
+   "year_label": "2009",
+   "year_approx": false,
+   "notes": "Elephant Jokes outtake",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 10, track 17",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 10,
+   "suitcase_disc": 2,
+   "track_no": 17,
+   "id": 242
+  },
+  {
+   "band": "Autobahn Damen",
+   "title": "Old Engine Driver",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Hey Aardvark",
+   "credit": "R. Pollard-J. Pollard-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 10, track 18",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 10,
+   "suitcase_disc": 2,
+   "track_no": 18,
+   "id": 243
+  },
+  {
+   "band": "Gel Clay",
+   "title": "Joe",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "AKA \"Joe the Crow.\" Possibly 2002 like the other Gel Clay track \"Back to the Navy\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 10, track 19",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 10,
+   "suitcase_disc": 2,
+   "track_no": 19,
+   "id": 244
+  },
+  {
+   "band": "Cubscout Bowling Pins",
+   "title": "Axtual Sextivity",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Same song as \"The Power of Suck\" (Crickets)",
+   "credit": "R. Pollard-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 10, track 20",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 10,
+   "suitcase_disc": 2,
+   "track_no": 20,
+   "id": 245
+  },
+  {
+   "band": "The Working Girls",
+   "title": "Call Me",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "same session as The House Always Looks So Nice ???",
+   "credit": "R. Pollard-J. Pollard-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 10, track 21",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 10,
+   "suitcase_disc": 2,
+   "track_no": 21,
+   "id": 246
+  },
+  {
+   "band": "Demon Gods of Anger",
+   "title": "Believe It",
+   "year": 1991,
+   "year_label": "1991",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-J. Pollard-Sprout-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard",
+    "Sprout",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 10, track 22",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 10,
+   "suitcase_disc": 2,
+   "track_no": 22,
+   "id": 247
+  },
+  {
+   "band": "Royal Canadien Mustard",
+   "title": "Class Clown Spots a UFO",
+   "year": 1988,
+   "year_label": "1988",
+   "year_approx": false,
+   "notes": "remake on Guided by Voices - Class Clown Spots A UFO",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 10, track 23",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 10,
+   "suitcase_disc": 2,
+   "track_no": 23,
+   "id": 248
+  },
+  {
+   "band": "Remington Ash",
+   "title": "You You You",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 10, track 24",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 10,
+   "suitcase_disc": 2,
+   "track_no": 24,
+   "id": 249
+  },
+  {
+   "band": "10 Second Coma",
+   "title": "Dibble",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": null,
+   "writers": [],
+   "source_location": "Disc 10, track 25",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 10,
+   "suitcase_disc": 2,
+   "track_no": 25,
+   "id": 250
+  },
+  {
+   "band": "Bird Shit Mosaic",
+   "title": "Night Ears",
+   "year": 2009,
+   "year_label": "2009",
+   "year_approx": false,
+   "notes": "Elephant Jokes outtake",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 11, track 01",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 11,
+   "suitcase_disc": 3,
+   "track_no": 1,
+   "id": 251
+  },
+  {
+   "band": "The Sobbers",
+   "title": "Amnesia",
+   "year": 1984,
+   "year_label": "1984",
+   "year_approx": false,
+   "notes": "From Pissing in the Canal",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 11, track 02",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 11,
+   "suitcase_disc": 3,
+   "track_no": 2,
+   "id": 252
+  },
+  {
+   "band": "Blaine Hazel",
+   "title": "Fly Away (Tommy Sez)",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Boston Spaceships remake on Our Cubehouse Still Rocks",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 11, track 03",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 11,
+   "suitcase_disc": 3,
+   "track_no": 3,
+   "id": 253
+  },
+  {
+   "band": "Jubilant Toy Soldiers",
+   "title": "Peace and Persecution",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-J. Pollard-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 11, track 04",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 11,
+   "suitcase_disc": 3,
+   "track_no": 4,
+   "id": 254
+  },
+  {
+   "band": "The Constant Rushing Forward",
+   "title": "There Are Other Worlds",
+   "year": 2001,
+   "year_label": "2001",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 11, track 05",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 11,
+   "suitcase_disc": 3,
+   "track_no": 5,
+   "id": 255
+  },
+  {
+   "band": "Knuckles and MacDougle",
+   "title": "It's The Song",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 11, track 06",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 11,
+   "suitcase_disc": 3,
+   "track_no": 6,
+   "id": 256
+  },
+  {
+   "band": "Erotic Zip Codes",
+   "title": "One Drop",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Early version of \"Sacred Space\" and \"Office of Hearts\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 11, track 07",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 11,
+   "suitcase_disc": 3,
+   "track_no": 7,
+   "id": 257
+  },
+  {
+   "band": "Angel and the Alley Oops",
+   "title": "Mainstay",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 11, track 08",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 11,
+   "suitcase_disc": 3,
+   "track_no": 8,
+   "id": 258
+  },
+  {
+   "band": "John Shough",
+   "title": "Sixland",
+   "year": 1995,
+   "year_label": "1995",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 11, track 09",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 11,
+   "suitcase_disc": 3,
+   "track_no": 9,
+   "id": 259
+  },
+  {
+   "band": "Ghetto Tree",
+   "title": "How Bridges Fall",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 11, track 10",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 11,
+   "suitcase_disc": 3,
+   "track_no": 10,
+   "id": 260
+  },
+  {
+   "band": "Basic Switches",
+   "title": "A Kind of Love",
+   "year": 1984,
+   "year_label": "1984",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 11, track 11",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 11,
+   "suitcase_disc": 3,
+   "track_no": 11,
+   "id": 261
+  },
+  {
+   "band": "Naymoan Regas",
+   "title": "Bad Whiskey",
+   "year": 2011,
+   "year_label": "2011",
+   "year_approx": false,
+   "notes": "Boston Spaceships remake on Let It Beard",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 11, track 12",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 11,
+   "suitcase_disc": 3,
+   "track_no": 12,
+   "id": 262
+  },
+  {
+   "band": "Curtis E. Flush",
+   "title": "Naked Believer (I Am)",
+   "year": 2009,
+   "year_label": "2009",
+   "year_approx": false,
+   "notes": "Elephant Jokes outtake",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 11, track 13",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 11,
+   "suitcase_disc": 3,
+   "track_no": 13,
+   "id": 263
+  },
+  {
+   "band": "Heartless Microscopes",
+   "title": "Out of the House",
+   "year": 2009,
+   "year_label": "2009",
+   "year_approx": false,
+   "notes": "Elephant Jokes outtake",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 11, track 14",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 11,
+   "suitcase_disc": 3,
+   "track_no": 14,
+   "id": 264
+  },
+  {
+   "band": "Equal in Coma",
+   "title": "Grow",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 11, track 15",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 11,
+   "suitcase_disc": 3,
+   "track_no": 15,
+   "id": 265
+  },
+  {
+   "band": "Psyclops",
+   "title": "Rough Tracks",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Mitch Mitchell-Fennell",
+   "writers": [
+    "R. Pollard",
+    "Mitch Mitchell",
+    "Fennell"
+   ],
+   "source_location": "Disc 11, track 16",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 11,
+   "suitcase_disc": 3,
+   "track_no": 16,
+   "id": 266
+  },
+  {
+   "band": "Gel Clay",
+   "title": "Nothing So Hard",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Possibly 2002 like the other Gel Clay track \"Back to the Navy\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 11, track 17",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 11,
+   "suitcase_disc": 3,
+   "track_no": 17,
+   "id": 267
+  },
+  {
+   "band": "Bumble Gub",
+   "title": "Piss Along You Bird",
+   "year": 2006,
+   "year_label": "2006",
+   "year_approx": false,
+   "notes": "Silverfish Trivia outtake, b-side to Rud Fins single",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 11, track 18",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 11,
+   "suitcase_disc": 3,
+   "track_no": 18,
+   "id": 268
+  },
+  {
+   "band": "Gene Autrey's Psychic",
+   "title": "300 Birds (Quota)",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Has \"U235\" at the end by",
+   "credit": "R. Pollard-J. Pollard-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 11, track 19",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 11,
+   "suitcase_disc": 3,
+   "track_no": 19,
+   "id": 269
+  },
+  {
+   "band": "The CD's",
+   "title": "Fireking Says No Cheating",
+   "year": 2003,
+   "year_label": "2003",
+   "year_approx": false,
+   "notes": "Pinball Mars outtake",
+   "credit": "R. Pollard-Todd Tobias-Tim Tobias",
+   "writers": [
+    "R. Pollard",
+    "Todd Tobias",
+    "Tim Tobias"
+   ],
+   "source_location": "Disc 11, track 20",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 11,
+   "suitcase_disc": 3,
+   "track_no": 20,
+   "id": 270
+  },
+  {
+   "band": "Hearthrob Johnson Firestone",
+   "title": "Poison Shop",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 11, track 21",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 11,
+   "suitcase_disc": 3,
+   "track_no": 21,
+   "id": 271
+  },
+  {
+   "band": "The Worst Santini",
+   "title": "Trader Vic",
+   "year": 1996,
+   "year_label": "1996",
+   "year_approx": false,
+   "notes": "Power of Suck demo",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 11, track 22",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 11,
+   "suitcase_disc": 3,
+   "track_no": 22,
+   "id": 272
+  },
+  {
+   "band": "History of Well Hung Men",
+   "title": "Smothered in Hugs (4-Track Version)",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "1993?",
+   "credit": "R. Pollard-J. Pollard-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 11, track 23",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 11,
+   "suitcase_disc": 3,
+   "track_no": 23,
+   "id": 273
+  },
+  {
+   "band": "Aerial Poop Show",
+   "title": "Dibble 2",
+   "year": 2001,
+   "year_label": "2001",
+   "year_approx": false,
+   "notes": "demo intro to Isolation Drills 2000 or 2001",
+   "credit": "R. Pollard-Farley",
+   "writers": [
+    "R. Pollard",
+    "Farley"
+   ],
+   "source_location": "Disc 11, track 24",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 11,
+   "suitcase_disc": 3,
+   "track_no": 24,
+   "id": 274
+  },
+  {
+   "band": "Kid Biscuit",
+   "title": "Huffman Prairie Flying Field",
+   "year": 2003,
+   "year_label": "2003",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 11, track 25",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 11,
+   "suitcase_disc": 3,
+   "track_no": 25,
+   "id": 275
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "Pluto is Polluted [Acoustic Version]",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": "Alien Lanes demo, Boston Spaceships remake on Camera Found the Raygun EP",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 12, track 01",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 12,
+   "suitcase_disc": 4,
+   "track_no": 1,
+   "id": 276
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "Aquarian Hovercraft",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": "Alien Lanes demo, Boston Spaceships remake on Camera Found the Raygun EP",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 12, track 02",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 12,
+   "suitcase_disc": 4,
+   "track_no": 2,
+   "id": 277
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "Brand New Star",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": "\"Stingy Queens\", \"Pink Drink\"",
+   "credit": "R. Pollard-Sprout-Demos",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "Demos"
+   ],
+   "source_location": "Disc 12, track 03",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 12,
+   "suitcase_disc": 4,
+   "track_no": 3,
+   "id": 278
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "Sea-Mint Robots",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout-Demos",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "Demos"
+   ],
+   "source_location": "Disc 12, track 04",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 12,
+   "suitcase_disc": 4,
+   "track_no": 4,
+   "id": 279
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "South Rat Observatory",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": "Intro reused for \"Tractor Rape Chain\"",
+   "credit": "R. Pollard-Sprout-Demos",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "Demos"
+   ],
+   "source_location": "Disc 12, track 05",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 12,
+   "suitcase_disc": 4,
+   "track_no": 5,
+   "id": 280
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "The Cinnamon Flavored Skull",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout-Demos",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "Demos"
+   ],
+   "source_location": "Disc 12, track 06",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 12,
+   "suitcase_disc": 4,
+   "track_no": 6,
+   "id": 281
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "Porpoise Mitten (Was a Real Good Kitten)",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout-Demos",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "Demos"
+   ],
+   "source_location": "Disc 12, track 07",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 12,
+   "suitcase_disc": 4,
+   "track_no": 7,
+   "id": 282
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "Mr. Spoon",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": "Demos plays chords from 3 Dream Bag song \"Electric Billboards Trampoline\"",
+   "credit": "R. Pollard-Sprout-Demos",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "Demos"
+   ],
+   "source_location": "Disc 12, track 08",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 12,
+   "suitcase_disc": 4,
+   "track_no": 8,
+   "id": 283
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "Hey Mr. Soundman [Acoustic Version]",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout-Demos",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "Demos"
+   ],
+   "source_location": "Disc 12, track 09",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 12,
+   "suitcase_disc": 4,
+   "track_no": 9,
+   "id": 284
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "Oh Pie",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout-Demos",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "Demos"
+   ],
+   "source_location": "Disc 12, track 10",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 12,
+   "suitcase_disc": 4,
+   "track_no": 10,
+   "id": 285
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "Kotex Moon",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout-Demos",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "Demos"
+   ],
+   "source_location": "Disc 12, track 11",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 12,
+   "suitcase_disc": 4,
+   "track_no": 11,
+   "id": 286
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "Bingo Pool Hall of Blood",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout-Demos",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "Demos"
+   ],
+   "source_location": "Disc 12, track 12",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 12,
+   "suitcase_disc": 4,
+   "track_no": 12,
+   "id": 287
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "There Goes the King Again",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout-Demos",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "Demos"
+   ],
+   "source_location": "Disc 12, track 13",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 12,
+   "suitcase_disc": 4,
+   "track_no": 13,
+   "id": 288
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "Evil Vandalia / Mojo Crow Zenith",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout-Demos",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "Demos"
+   ],
+   "source_location": "Disc 12, track 14",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 12,
+   "suitcase_disc": 4,
+   "track_no": 14,
+   "id": 289
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "Cuddling Bozo's Octopus",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout-Demos",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "Demos"
+   ],
+   "source_location": "Disc 12, track 15",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 12,
+   "suitcase_disc": 4,
+   "track_no": 15,
+   "id": 290
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "I Shot a Jezebel",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout-Demos",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "Demos"
+   ],
+   "source_location": "Disc 12, track 16",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 12,
+   "suitcase_disc": 4,
+   "track_no": 16,
+   "id": 291
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "After the Quake (Let's Bake a Cake)",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout-Demos",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "Demos"
+   ],
+   "source_location": "Disc 12, track 17",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 12,
+   "suitcase_disc": 4,
+   "track_no": 17,
+   "id": 292
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "P Melts Everything",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout-Demos",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "Demos"
+   ],
+   "source_location": "Disc 12, track 18",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 12,
+   "suitcase_disc": 4,
+   "track_no": 18,
+   "id": 293
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "My Dad is a Motorboat",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout-Demos",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "Demos"
+   ],
+   "source_location": "Disc 12, track 19",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 12,
+   "suitcase_disc": 4,
+   "track_no": 19,
+   "id": 294
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "Ugly Ba Ba",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout-Demos",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "Demos"
+   ],
+   "source_location": "Disc 12, track 20",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 12,
+   "suitcase_disc": 4,
+   "track_no": 20,
+   "id": 295
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "Hairspray Lies",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout-Demos",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "Demos"
+   ],
+   "source_location": "Disc 12, track 21",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 12,
+   "suitcase_disc": 4,
+   "track_no": 21,
+   "id": 296
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "Sawhorse with Big Blue Ears",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout-Demos",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "Demos"
+   ],
+   "source_location": "Disc 12, track 22",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 12,
+   "suitcase_disc": 4,
+   "track_no": 22,
+   "id": 297
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "Tough Skin River",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Sprout-Demos",
+   "writers": [
+    "R. Pollard",
+    "Sprout",
+    "Demos"
+   ],
+   "source_location": "Disc 12, track 23",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 12,
+   "suitcase_disc": 4,
+   "track_no": 23,
+   "id": 298
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "Cruise [Acoustic Version]",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": "Alien Lanes demo",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 12, track 24",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 12,
+   "suitcase_disc": 4,
+   "track_no": 24,
+   "id": 299
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "Alright [Acoustic Version]",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": "Alien Lanes demo",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 12, track 25",
+   "collection": "Suitcase 3",
+   "suitcase": 3,
+   "disc": 12,
+   "suitcase_disc": 4,
+   "track_no": 25,
+   "id": 300
+  },
+  {
+   "band": "Unruly Compounds",
+   "title": "Lead Walking Shorts",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Instrumental version of \"Substitute Heaven\"",
+   "credit": "R. Pollard-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 13, track 01",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 13,
+   "suitcase_disc": 1,
+   "track_no": 1,
+   "id": 301
+  },
+  {
+   "band": "Jump The Swing",
+   "title": "Walls And Windows",
+   "year": 1984,
+   "year_label": "1984",
+   "year_approx": false,
+   "notes": "From Pissing in the Canal, early Hardcore UFOs",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 13, track 02",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 13,
+   "suitcase_disc": 1,
+   "track_no": 2,
+   "id": 302
+  },
+  {
+   "band": "Jonathon Hyphen Jones",
+   "title": "I'm In Shock (Hit Me With Tonic)",
+   "year": 2006,
+   "year_label": "2006",
+   "year_approx": false,
+   "notes": "Melody from Psycho and the Bird's \"Glorified Ushers\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 13, track 03",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 13,
+   "suitcase_disc": 1,
+   "track_no": 3,
+   "id": 303
+  },
+  {
+   "band": "Vile Typists",
+   "title": "Deaf Dumb And Blind Girl",
+   "year": 2015,
+   "year_label": "2015",
+   "year_approx": false,
+   "notes": "Recorded with Nick Mitchell for Suitcase 4",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 13, track 04",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 13,
+   "suitcase_disc": 1,
+   "track_no": 4,
+   "id": 304
+  },
+  {
+   "band": "Rachel Twit",
+   "title": "Try Me On For Size",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Echos Myron",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 13, track 05",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 13,
+   "suitcase_disc": 1,
+   "track_no": 5,
+   "id": 305
+  },
+  {
+   "band": "Laser Finch",
+   "title": "No One Looking For You",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 13, track 06",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 13,
+   "suitcase_disc": 1,
+   "track_no": 6,
+   "id": 306
+  },
+  {
+   "band": "The Crowd",
+   "title": "Murphy Had A Birthday",
+   "year": 1983,
+   "year_label": "1983",
+   "year_approx": false,
+   "notes": "aka Today You're 82",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 13, track 07",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 13,
+   "suitcase_disc": 1,
+   "track_no": 7,
+   "id": 307
+  },
+  {
+   "band": "Zeppelins Of Gin",
+   "title": "Living On Planet Cake",
+   "year": 2013,
+   "year_label": "2013",
+   "year_approx": false,
+   "notes": "Hi-Fi Balloon track with Sunflower Logic",
+   "credit": "R. Pollard-Demos-J. Pollard",
+   "writers": [
+    "R. Pollard",
+    "Demos",
+    "J. Pollard"
+   ],
+   "source_location": "Disc 13, track 08",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 13,
+   "suitcase_disc": 1,
+   "track_no": 8,
+   "id": 308
+  },
+  {
+   "band": "Jonathon Hyphen Jones",
+   "title": "Great Service",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 13, track 09",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 13,
+   "suitcase_disc": 1,
+   "track_no": 9,
+   "id": 309
+  },
+  {
+   "band": "Baby Gods",
+   "title": "Only Ghost In Town",
+   "year": 2008,
+   "year_label": "2008?",
+   "year_approx": true,
+   "notes": "Coat Factory Zero",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 13, track 10",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 13,
+   "suitcase_disc": 1,
+   "track_no": 10,
+   "id": 310
+  },
+  {
+   "band": "Teenage Guitar",
+   "title": "8 Bars (Ext 3)",
+   "year": 2008,
+   "year_label": "2008",
+   "year_approx": false,
+   "notes": "\"8 Bars of Meaningless Mathilda\" with new voicemail intro",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 13, track 11",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 13,
+   "suitcase_disc": 1,
+   "track_no": 11,
+   "id": 311
+  },
+  {
+   "band": "Target Larks",
+   "title": "No Bird",
+   "year": 2008,
+   "year_label": "2008",
+   "year_approx": false,
+   "notes": "The Jeep - Carbon Whales",
+   "credit": "R. Pollard-Slusarenko",
+   "writers": [
+    "R. Pollard",
+    "Slusarenko"
+   ],
+   "source_location": "Disc 13, track 12",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 13,
+   "suitcase_disc": 1,
+   "track_no": 12,
+   "id": 312
+  },
+  {
+   "band": "Broken Heart Discoteque",
+   "title": "Motor Away",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Otherwise known as \"Motor Away (Quiet Demo)\"",
+   "credit": "R. Pollard-Sprout",
+   "writers": [
+    "R. Pollard",
+    "Sprout"
+   ],
+   "source_location": "Disc 13, track 13",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 13,
+   "suitcase_disc": 1,
+   "track_no": 13,
+   "id": 313
+  },
+  {
+   "band": "Canoes",
+   "title": "The Garden",
+   "year": 1985,
+   "year_label": "1985–86?",
+   "year_approx": true,
+   "notes": "Fig. 4 song recorded by GBV",
+   "credit": "Sprout-Toohey-J. Peterson",
+   "writers": [
+    "Sprout",
+    "Toohey",
+    "J. Peterson"
+   ],
+   "source_location": "Disc 13, track 14",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 13,
+   "suitcase_disc": 1,
+   "track_no": 14,
+   "id": 314
+  },
+  {
+   "band": "Jonathon Hyphen Jones",
+   "title": "Happy Heartbreaker",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 13, track 15",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 13,
+   "suitcase_disc": 1,
+   "track_no": 15,
+   "id": 315
+  },
+  {
+   "band": "Pretzel Youth",
+   "title": "Less Active Railroad",
+   "year": 1979,
+   "year_label": "1979",
+   "year_approx": false,
+   "notes": "86 track / Wished I Was A Giant",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 13, track 16",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 13,
+   "suitcase_disc": 1,
+   "track_no": 16,
+   "id": 316
+  },
+  {
+   "band": "Porky Giant (w/ Jumbo)",
+   "title": "Porpoise Northeast",
+   "year": 2011,
+   "year_label": "2011",
+   "year_approx": false,
+   "notes": "Sunflower Logic sessions",
+   "credit": "R. Pollard-Demos-J. Pollard",
+   "writers": [
+    "R. Pollard",
+    "Demos",
+    "J. Pollard"
+   ],
+   "source_location": "Disc 13, track 17",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 13,
+   "suitcase_disc": 1,
+   "track_no": 17,
+   "id": 317
+  },
+  {
+   "band": "The Human Possible",
+   "title": "Pretty Pinwheel",
+   "year": 2014,
+   "year_label": "2014",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Campbell-R. Pollard",
+   "writers": [
+    "R. Campbell",
+    "R. Pollard"
+   ],
+   "source_location": "Disc 13, track 18",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 13,
+   "suitcase_disc": 1,
+   "track_no": 18,
+   "id": 318
+  },
+  {
+   "band": "Die City",
+   "title": "Back To The Diving Board",
+   "year": 2002,
+   "year_label": "2002?",
+   "year_approx": true,
+   "notes": "Circus Devils track that was considered for \"The Harold Pig Memorial\" album, according to Todd Tobias",
+   "credit": "R. Pollard-Todd Tobias-Tim Tobias",
+   "writers": [
+    "R. Pollard",
+    "Todd Tobias",
+    "Tim Tobias"
+   ],
+   "source_location": "Disc 13, track 19",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 13,
+   "suitcase_disc": 1,
+   "track_no": 19,
+   "id": 319
+  },
+  {
+   "band": "Dashing Plumbers",
+   "title": "Mary And The Summer",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Remade as \"Nully Scully\" on Capsized",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 13, track 20",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 13,
+   "suitcase_disc": 1,
+   "track_no": 20,
+   "id": 320
+  },
+  {
+   "band": "The Crowd",
+   "title": "Eloise",
+   "year": 1983,
+   "year_label": "1983",
+   "year_approx": false,
+   "notes": "Melody recycled in \"Wrinkled Ghost\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 13, track 21",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 13,
+   "suitcase_disc": 1,
+   "track_no": 21,
+   "id": 321
+  },
+  {
+   "band": "Abigail French",
+   "title": "Here To Stay",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Acid Ranch era?",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 13, track 22",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 13,
+   "suitcase_disc": 1,
+   "track_no": 22,
+   "id": 322
+  },
+  {
+   "band": "Human Brain",
+   "title": "She It",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Instrumental demo of \"I'll Take the Cure\"",
+   "credit": "Mitch Mitchell-R. Pollard-J. Pollard",
+   "writers": [
+    "Mitch Mitchell",
+    "R. Pollard",
+    "J. Pollard"
+   ],
+   "source_location": "Disc 13, track 23",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 13,
+   "suitcase_disc": 1,
+   "track_no": 23,
+   "id": 323
+  },
+  {
+   "band": "Christopher Lightship",
+   "title": "Hallway of Shatterproof Glass",
+   "year": 1992,
+   "year_label": "1992",
+   "year_approx": false,
+   "notes": "Propeller outtake. Pink Drink/Goldheart Mountain Top Queen Directory",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 13, track 24",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 13,
+   "suitcase_disc": 1,
+   "track_no": 24,
+   "id": 324
+  },
+  {
+   "band": "Nile Eskimo",
+   "title": "Govt. Bldg. 15",
+   "year": 2012,
+   "year_label": "2012",
+   "year_approx": false,
+   "notes": "first Hi-Fi Balloon track",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 13, track 25",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 13,
+   "suitcase_disc": 1,
+   "track_no": 25,
+   "id": 325
+  },
+  {
+   "band": "Once",
+   "title": "Lockets Of The Empress",
+   "year": 1984,
+   "year_label": "1984",
+   "year_approx": false,
+   "notes": "From Pissing in the Canal",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 14, track 01",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 14,
+   "suitcase_disc": 2,
+   "track_no": 1,
+   "id": 326
+  },
+  {
+   "band": "Red Gravity",
+   "title": "The New Ooze",
+   "year": 2011,
+   "year_label": "2011?",
+   "year_approx": true,
+   "notes": "Let's Go Eat the Factory era?",
+   "credit": "R. Pollard-Mitch Mitchell-J. Pollard",
+   "writers": [
+    "R. Pollard",
+    "Mitch Mitchell",
+    "J. Pollard"
+   ],
+   "source_location": "Disc 14, track 02",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 14,
+   "suitcase_disc": 2,
+   "track_no": 2,
+   "id": 327
+  },
+  {
+   "band": "Invalid Keys",
+   "title": "Our Little Secret",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Also known as \"Don't Tell Our Secret\" and \"I Can't Win\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 14, track 03",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 14,
+   "suitcase_disc": 2,
+   "track_no": 3,
+   "id": 328
+  },
+  {
+   "band": "Jonathon Hyphen Jones",
+   "title": "I Can Never Let You Win",
+   "year": 2015,
+   "year_label": "2015",
+   "year_approx": false,
+   "notes": "Of Course You Are demo, under different name",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 14, track 04",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 14,
+   "suitcase_disc": 2,
+   "track_no": 4,
+   "id": 329
+  },
+  {
+   "band": "The Cracked Heads",
+   "title": "Hey You Know Me",
+   "year": 2010,
+   "year_label": "2010",
+   "year_approx": false,
+   "notes": "From GBV live performance of \"Lethargy\" at the Trocadero Theater in Philadelphia (11-6-10)",
+   "credit": "R. Pollard-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 14, track 05",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 14,
+   "suitcase_disc": 2,
+   "track_no": 5,
+   "id": 330
+  },
+  {
+   "band": "Demmit Runyon",
+   "title": "Ode To J.D.",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 14, track 06",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 14,
+   "suitcase_disc": 2,
+   "track_no": 6,
+   "id": 331
+  },
+  {
+   "band": "The 1913 Floods",
+   "title": "I Am Decided",
+   "year": 1995,
+   "year_label": "1995",
+   "year_approx": false,
+   "notes": "Alternate mix",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 14, track 07",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 14,
+   "suitcase_disc": 2,
+   "track_no": 7,
+   "id": 332
+  },
+  {
+   "band": "Science Of Lamar",
+   "title": "Over and Over Again",
+   "year": 1981,
+   "year_label": "1981?",
+   "year_approx": true,
+   "notes": "If We Wait",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 14, track 08",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 14,
+   "suitcase_disc": 2,
+   "track_no": 8,
+   "id": 333
+  },
+  {
+   "band": "The Multi-Colored Wisemen",
+   "title": "Excellent Extension",
+   "year": 2015,
+   "year_label": "2015",
+   "year_approx": false,
+   "notes": "Recorded with Nick Mitchell for Suitcase 4",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 14, track 09",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 14,
+   "suitcase_disc": 2,
+   "track_no": 9,
+   "id": 334
+  },
+  {
+   "band": "Up The Family Tree",
+   "title": "Good To Look",
+   "year": 1985,
+   "year_label": "1985",
+   "year_approx": false,
+   "notes": "From Rifle Games, shitty Queen Of Cans And Jars. Guitar riff turned into \"Spring Tigers\" solo",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 14, track 10",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 14,
+   "suitcase_disc": 2,
+   "track_no": 10,
+   "id": 335
+  },
+  {
+   "band": "Witches of Woodstock",
+   "title": "Slave Boss Cranberry",
+   "year": 2004,
+   "year_label": "2004",
+   "year_approx": false,
+   "notes": "Improvised song performed 10/25/2004 (should be co-written by Slushy instead of Tim)",
+   "credit": "R. Pollard-Gillard-Farley-Tim Tobias-March",
+   "writers": [
+    "R. Pollard",
+    "Gillard",
+    "Farley",
+    "Tim Tobias",
+    "March"
+   ],
+   "source_location": "Disc 14, track 11",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 14,
+   "suitcase_disc": 2,
+   "track_no": 11,
+   "id": 336
+  },
+  {
+   "band": "Average Roger",
+   "title": "Slow Dirty Water",
+   "year": 2002,
+   "year_label": "2002?",
+   "year_approx": true,
+   "notes": "Dirty Water demo",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 14, track 12",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 14,
+   "suitcase_disc": 2,
+   "track_no": 12,
+   "id": 337
+  },
+  {
+   "band": "Jonathon Hyphen Jones",
+   "title": "The Garden Goes",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 14, track 13",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 14,
+   "suitcase_disc": 2,
+   "track_no": 13,
+   "id": 338
+  },
+  {
+   "band": "Punchin Umps",
+   "title": "Save My Life",
+   "year": 1986,
+   "year_label": "1986",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 14, track 14",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 14,
+   "suitcase_disc": 2,
+   "track_no": 14,
+   "id": 339
+  },
+  {
+   "band": "Obligated Finger",
+   "title": "Somethings Missing",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "Mitch Mitchell-R. Pollard",
+   "writers": [
+    "Mitch Mitchell",
+    "R. Pollard"
+   ],
+   "source_location": "Disc 14, track 15",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 14,
+   "suitcase_disc": 2,
+   "track_no": 15,
+   "id": 340
+  },
+  {
+   "band": "Crystal Rabbit",
+   "title": "Clean It Up",
+   "year": 1992,
+   "year_label": "1992",
+   "year_approx": false,
+   "notes": "Propeller demo, recycled into chorus of \"Tractor Rape Chain\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 14, track 16",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 14,
+   "suitcase_disc": 2,
+   "track_no": 16,
+   "id": 341
+  },
+  {
+   "band": "Anvil Cranberry",
+   "title": "You Dont Know Me (I'm Your Dog)",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 14, track 17",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 14,
+   "suitcase_disc": 2,
+   "track_no": 17,
+   "id": 342
+  },
+  {
+   "band": "Jonathon Hyphen Jones",
+   "title": "You Make The Sun",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "First half is \"The Town That's After Me\", second half is \"Break My Leg\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 14, track 18",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 14,
+   "suitcase_disc": 2,
+   "track_no": 18,
+   "id": 343
+  },
+  {
+   "band": "The Crowd",
+   "title": "Time Will Destroy You",
+   "year": 1983,
+   "year_label": "1983",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 14, track 19",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 14,
+   "suitcase_disc": 2,
+   "track_no": 19,
+   "id": 344
+  },
+  {
+   "band": "Fire Engine John",
+   "title": "Delayed Reaction Brats",
+   "year": 1995,
+   "year_label": "1995?",
+   "year_approx": true,
+   "notes": "(2 Versions)",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 14, track 20",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 14,
+   "suitcase_disc": 2,
+   "track_no": 20,
+   "id": 345
+  },
+  {
+   "band": "Jonathon Hyphen Jones",
+   "title": "Pretty As Her Cats",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 14, track 21",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 14,
+   "suitcase_disc": 2,
+   "track_no": 21,
+   "id": 346
+  },
+  {
+   "band": "Sobers",
+   "title": "One Big Boss",
+   "year": 2012,
+   "year_label": "2012?",
+   "year_approx": true,
+   "notes": "Same session as \"Military School Dance Dismissal\"? (More likely to be a Force Fields At Home outtake.)",
+   "credit": "R. Pollard-Demos",
+   "writers": [
+    "R. Pollard",
+    "Demos"
+   ],
+   "source_location": "Disc 14, track 22",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 14,
+   "suitcase_disc": 2,
+   "track_no": 22,
+   "id": 347
+  },
+  {
+   "band": "The Human Possible",
+   "title": "Mystery Walk",
+   "year": 2014,
+   "year_label": "2014",
+   "year_approx": false,
+   "notes": "Bob and Randy wrote this song in high school",
+   "credit": "R. Campbell-R. Pollard",
+   "writers": [
+    "R. Campbell",
+    "R. Pollard"
+   ],
+   "source_location": "Disc 14, track 23",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 14,
+   "suitcase_disc": 2,
+   "track_no": 23,
+   "id": 348
+  },
+  {
+   "band": "The Crowd",
+   "title": "Then Again",
+   "year": 1983,
+   "year_label": "1983",
+   "year_approx": false,
+   "notes": "(Acoustic Version)",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 14, track 24",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 14,
+   "suitcase_disc": 2,
+   "track_no": 24,
+   "id": 349
+  },
+  {
+   "band": "The Sunflower Logic",
+   "title": "Son Of The Sea",
+   "year": 2013,
+   "year_label": "2013",
+   "year_approx": false,
+   "notes": "Aborted track from Sunflower Logic sessions at Public Hi-Fi Balloon",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 14, track 25",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 14,
+   "suitcase_disc": 2,
+   "track_no": 25,
+   "id": 350
+  },
+  {
+   "band": "Union Bellboy",
+   "title": "Bellboy Stomp",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Early instrumental of \"He Rises! (Our Union Bellboy)\" circa 1987?",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 15, track 01",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 15,
+   "suitcase_disc": 3,
+   "track_no": 1,
+   "id": 351
+  },
+  {
+   "band": "The Crowd",
+   "title": "Linda's Lottery",
+   "year": 1983,
+   "year_label": "1983",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 15, track 02",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 15,
+   "suitcase_disc": 3,
+   "track_no": 2,
+   "id": 352
+  },
+  {
+   "band": "Jonathon Hyphen Jones",
+   "title": "Of Course You Are",
+   "year": 2015,
+   "year_label": "2015",
+   "year_approx": false,
+   "notes": "Of Course You Are demo",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 15, track 03",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 15,
+   "suitcase_disc": 3,
+   "track_no": 3,
+   "id": 353
+  },
+  {
+   "band": "Poof",
+   "title": "Pinpoints On The Anal Zone",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Same recording as \"Lugnut Blues\" (Crickets)",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 15, track 04",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 15,
+   "suitcase_disc": 3,
+   "track_no": 4,
+   "id": 354
+  },
+  {
+   "band": "Eyeball Magazine",
+   "title": "City With Fear",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Nightwalker's \"Those Little Bastards Will Bite\" with additional vocals",
+   "credit": "R. Pollard-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 15, track 05",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 15,
+   "suitcase_disc": 3,
+   "track_no": 5,
+   "id": 355
+  },
+  {
+   "band": "Stonehenge Birdhouse",
+   "title": "She Doesn't Know Why",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Jason Short",
+   "writers": [
+    "R. Pollard",
+    "Jason Short"
+   ],
+   "source_location": "Disc 15, track 06",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 15,
+   "suitcase_disc": 3,
+   "track_no": 6,
+   "id": 356
+  },
+  {
+   "band": "Greenish Monsoon",
+   "title": "(I Been) Pigeon Tripping",
+   "year": 2009,
+   "year_label": "2009",
+   "year_approx": false,
+   "notes": "\"Pigeon Tripping\" studio chatter",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 15, track 07",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 15,
+   "suitcase_disc": 3,
+   "track_no": 7,
+   "id": 357
+  },
+  {
+   "band": "The Peter Pan Can",
+   "title": "Fall All Over Yourself",
+   "year": 2015,
+   "year_label": "2015",
+   "year_approx": false,
+   "notes": "Recorded with Nick Mitchell for Suitcase 4",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 15, track 08",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 15,
+   "suitcase_disc": 3,
+   "track_no": 8,
+   "id": 358
+  },
+  {
+   "band": "Pontiac Seagulls",
+   "title": "Quality of Armor",
+   "year": 1979,
+   "year_label": "1979",
+   "year_approx": false,
+   "notes": "Old track from the 86 days",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 15, track 09",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 15,
+   "suitcase_disc": 3,
+   "track_no": 9,
+   "id": 359
+  },
+  {
+   "band": "Pete Star",
+   "title": "Teeth Flashlight (Demo)",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Titular lyrics recycled for \"Gable's Ear Wax\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 15, track 10",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 15,
+   "suitcase_disc": 3,
+   "track_no": 10,
+   "id": 360
+  },
+  {
+   "band": "Hoarse Gorilla",
+   "title": "Lets Make Out",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Force Fields at Home outtake?",
+   "credit": "R. Pollard-Demos",
+   "writers": [
+    "R. Pollard",
+    "Demos"
+   ],
+   "source_location": "Disc 15, track 11",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 15,
+   "suitcase_disc": 3,
+   "track_no": 11,
+   "id": 361
+  },
+  {
+   "band": "Bob Silky",
+   "title": "Busy Bee",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 15, track 12",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 15,
+   "suitcase_disc": 3,
+   "track_no": 12,
+   "id": 362
+  },
+  {
+   "band": "The Sunflower Logic",
+   "title": "Why Do You Stare Into The Sea",
+   "year": 2012,
+   "year_label": "2012",
+   "year_approx": false,
+   "notes": "Aborted track from Sunflower Logic sessions at Public Hi-Fi Balloon. Parts re-used in \"Crystal Titanic\".",
+   "credit": "R. Pollard-Demos-J. Pollard-Joe Patterson",
+   "writers": [
+    "R. Pollard",
+    "Demos",
+    "J. Pollard",
+    "Joe Patterson"
+   ],
+   "source_location": "Disc 15, track 13",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 15,
+   "suitcase_disc": 3,
+   "track_no": 13,
+   "id": 363
+  },
+  {
+   "band": "Boy Rocker",
+   "title": "Rock Time",
+   "year": 2005,
+   "year_label": "2005",
+   "year_approx": false,
+   "notes": "FaCE outtake, recycled on \"We All Got Out (Of The Army)\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 15, track 14",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 15,
+   "suitcase_disc": 3,
+   "track_no": 14,
+   "id": 364
+  },
+  {
+   "band": "Canoes",
+   "title": "Heartbeat",
+   "year": 1985,
+   "year_label": "1985–86?",
+   "year_approx": true,
+   "notes": "Fig. 4 song recorded by GBV",
+   "credit": "Sprout-Toohey-J. Peterson",
+   "writers": [
+    "Sprout",
+    "Toohey",
+    "J. Peterson"
+   ],
+   "source_location": "Disc 15, track 15",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 15,
+   "suitcase_disc": 3,
+   "track_no": 15,
+   "id": 365
+  },
+  {
+   "band": "Amazed By Extra Indians",
+   "title": "Near As Not Late",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "sounds like they are going into something familiar at the end",
+   "credit": "R. Pollard-J. Pollard-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 15, track 16",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 15,
+   "suitcase_disc": 3,
+   "track_no": 16,
+   "id": 366
+  },
+  {
+   "band": "Abigail French",
+   "title": "Finger To The Lips",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 15, track 17",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 15,
+   "suitcase_disc": 3,
+   "track_no": 17,
+   "id": 367
+  },
+  {
+   "band": "Mousetrap Speaker",
+   "title": "Carnal Limousine",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 15, track 18",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 15,
+   "suitcase_disc": 3,
+   "track_no": 18,
+   "id": 368
+  },
+  {
+   "band": "Faint Wives",
+   "title": "Doctor Boyfriend",
+   "year": 2015,
+   "year_label": "2015",
+   "year_approx": false,
+   "notes": "Recorded with Nick Mitchell for Suitcase 4",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 15, track 19",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 15,
+   "suitcase_disc": 3,
+   "track_no": 19,
+   "id": 369
+  },
+  {
+   "band": "Jonathon Hyphen Jones",
+   "title": "Spiraling Epsilon",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 15, track 20",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 15,
+   "suitcase_disc": 3,
+   "track_no": 20,
+   "id": 370
+  },
+  {
+   "band": "Rachel Twit",
+   "title": "Ugly Day of Rain and Soccer",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 15, track 21",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 15,
+   "suitcase_disc": 3,
+   "track_no": 21,
+   "id": 371
+  },
+  {
+   "band": "Ink Well Spinsters",
+   "title": "Yank For The Rooties",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-J. Pollard",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard"
+   ],
+   "source_location": "Disc 15, track 22",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 15,
+   "suitcase_disc": 3,
+   "track_no": 22,
+   "id": 372
+  },
+  {
+   "band": "Mother Superior Gymnasium",
+   "title": "Glad Girls",
+   "year": 1994,
+   "year_label": "1994",
+   "year_approx": false,
+   "notes": "Alien Lanes outtake (?)",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 15, track 23",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 15,
+   "suitcase_disc": 3,
+   "track_no": 23,
+   "id": 373
+  },
+  {
+   "band": "Jonathon Hyphen Jones",
+   "title": "(If You've Got A Rocket) Got To Ride",
+   "year": 2015,
+   "year_label": "2015",
+   "year_approx": false,
+   "notes": "Of Course You Are demo, under different name",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 15, track 24",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 15,
+   "suitcase_disc": 3,
+   "track_no": 24,
+   "id": 374
+  },
+  {
+   "band": "The Human Possible",
+   "title": "Frog Baby Axe Murderer",
+   "year": 2014,
+   "year_label": "2014",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-R. Campbell",
+   "writers": [
+    "R. Pollard",
+    "R. Campbell"
+   ],
+   "source_location": "Disc 15, track 25",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 15,
+   "suitcase_disc": 3,
+   "track_no": 25,
+   "id": 375
+  },
+  {
+   "band": "Maximilian Kittykat",
+   "title": "Strange Games",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 16, track 01",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 16,
+   "suitcase_disc": 4,
+   "track_no": 1,
+   "id": 376
+  },
+  {
+   "band": "The Crowd",
+   "title": "Thick And Thin",
+   "year": 1983,
+   "year_label": "1983",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 16, track 02",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 16,
+   "suitcase_disc": 4,
+   "track_no": 2,
+   "id": 377
+  },
+  {
+   "band": "Red Rubber Ballroom",
+   "title": "When 2 Hours Seem Like 5",
+   "year": 1986,
+   "year_label": "1986",
+   "year_approx": false,
+   "notes": "Long as the Block is Black, played live in May of '86",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 16, track 03",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 16,
+   "suitcase_disc": 4,
+   "track_no": 3,
+   "id": 378
+  },
+  {
+   "band": "Blazing Archetypes",
+   "title": "Find A Wet Spot",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Last part of \"Another Man's Blood\".",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 16, track 04",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 16,
+   "suitcase_disc": 4,
+   "track_no": 4,
+   "id": 379
+  },
+  {
+   "band": "Zonker Zoon",
+   "title": "I'm Just Doing My Job",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "same session as How Can You?",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 16, track 05",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 16,
+   "suitcase_disc": 4,
+   "track_no": 5,
+   "id": 380
+  },
+  {
+   "band": "Jonathon Hyphen Jones",
+   "title": "Contemporary Man (He Is Our Age)",
+   "year": 2015,
+   "year_label": "2015",
+   "year_approx": false,
+   "notes": "Of Course You Are demo. Similar to \"I'm an Acting Student\" (SC3)",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 16, track 06",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 16,
+   "suitcase_disc": 4,
+   "track_no": 6,
+   "id": 381
+  },
+  {
+   "band": "Zeppelins Of Gin",
+   "title": "Heels Tight",
+   "year": 2012,
+   "year_label": "2012",
+   "year_approx": false,
+   "notes": "Aborted track from Sunflower Logic sessions at Public Hi-Fi Balloon",
+   "credit": "R. Pollard-Demos-Joe Patterson",
+   "writers": [
+    "R. Pollard",
+    "Demos",
+    "Joe Patterson"
+   ],
+   "source_location": "Disc 16, track 07",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 16,
+   "suitcase_disc": 4,
+   "track_no": 7,
+   "id": 382
+  },
+  {
+   "band": "Peccadilloes",
+   "title": "The House Always Looks So Nice",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "same session as Call Me ???",
+   "credit": "R. Pollard-Mitch Mitchell-J. Pollard",
+   "writers": [
+    "R. Pollard",
+    "Mitch Mitchell",
+    "J. Pollard"
+   ],
+   "source_location": "Disc 16, track 08",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 16,
+   "suitcase_disc": 4,
+   "track_no": 8,
+   "id": 383
+  },
+  {
+   "band": "Franklin Ellsworth Bowie",
+   "title": "Amazed",
+   "year": 1995,
+   "year_label": "1995",
+   "year_approx": false,
+   "notes": "Power of Suck demo",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 16, track 09",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 16,
+   "suitcase_disc": 4,
+   "track_no": 9,
+   "id": 384
+  },
+  {
+   "band": "The Crowd",
+   "title": "Disappearing Act",
+   "year": 1983,
+   "year_label": "1983",
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 16, track 10",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 16,
+   "suitcase_disc": 4,
+   "track_no": 10,
+   "id": 385
+  },
+  {
+   "band": "Manly Weathers",
+   "title": "Rubber Man (Long)",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 16, track 11",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 16,
+   "suitcase_disc": 4,
+   "track_no": 11,
+   "id": 386
+  },
+  {
+   "band": "Target Larks",
+   "title": "James Of Life",
+   "year": 2008,
+   "year_label": "2008",
+   "year_approx": false,
+   "notes": "False Teeth - Carbon Whales",
+   "credit": "R. Pollard-Slusarenko",
+   "writers": [
+    "R. Pollard",
+    "Slusarenko"
+   ],
+   "source_location": "Disc 16, track 12",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 16,
+   "suitcase_disc": 4,
+   "track_no": 12,
+   "id": 387
+  },
+  {
+   "band": "Embry O’s",
+   "title": "The Jerking Clown",
+   "year": 2012,
+   "year_label": "2012?",
+   "year_approx": true,
+   "notes": "Anacrusis I (It was probably written then, but the recording is far more recent)",
+   "credit": "R. Pollard-Dave Higgins",
+   "writers": [
+    "R. Pollard",
+    "Dave Higgins"
+   ],
+   "source_location": "Disc 16, track 13",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 16,
+   "suitcase_disc": 4,
+   "track_no": 13,
+   "id": 388
+  },
+  {
+   "band": "Hospital",
+   "title": "Psycho All The Time",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 16, track 14",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 16,
+   "suitcase_disc": 4,
+   "track_no": 14,
+   "id": 389
+  },
+  {
+   "band": "Flavor X",
+   "title": "Throwing Down The Line",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Postal Blowfish",
+   "credit": "R. Pollard-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 16, track 15",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 16,
+   "suitcase_disc": 4,
+   "track_no": 15,
+   "id": 390
+  },
+  {
+   "band": "Jonathon Hyphen Jones",
+   "title": "Proof",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 16, track 16",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 16,
+   "suitcase_disc": 4,
+   "track_no": 16,
+   "id": 391
+  },
+  {
+   "band": "The Strike Outs",
+   "title": "Third Grade Aviator",
+   "year": 2015,
+   "year_label": "2015",
+   "year_approx": false,
+   "notes": "Recorded with Nick Mitchell for Suitcase 4",
+   "credit": "R. Pollard-Bruce Greenwald",
+   "writers": [
+    "R. Pollard",
+    "Bruce Greenwald"
+   ],
+   "source_location": "Disc 16, track 17",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 16,
+   "suitcase_disc": 4,
+   "track_no": 17,
+   "id": 392
+  },
+  {
+   "band": "Witches Of Woodstock",
+   "title": "She Likes Tea Rats",
+   "year": 1995,
+   "year_label": "1995",
+   "year_approx": false,
+   "notes": "AKA \"Did I See That?\" Improvised song performed 3/30/95",
+   "credit": "R. Pollard-Mitch Mitchell-Sprout-Fennell-Greer",
+   "writers": [
+    "R. Pollard",
+    "Mitch Mitchell",
+    "Sprout",
+    "Fennell",
+    "Greer"
+   ],
+   "source_location": "Disc 16, track 18",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 16,
+   "suitcase_disc": 4,
+   "track_no": 18,
+   "id": 393
+  },
+  {
+   "band": "Jonathon Hyphen Jones",
+   "title": "Promo Brunette",
+   "year": 2015,
+   "year_label": "2015",
+   "year_approx": false,
+   "notes": "Of Course You Are demo",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 16, track 19",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 16,
+   "suitcase_disc": 4,
+   "track_no": 19,
+   "id": 394
+  },
+  {
+   "band": "The Roonies",
+   "title": "Just One Drop",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Early version of \"Sacred Space\" and \"Office of Hearts\"",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 16, track 20",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 16,
+   "suitcase_disc": 4,
+   "track_no": 20,
+   "id": 395
+  },
+  {
+   "band": "No Equal",
+   "title": "Temporary Shutdown",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": null,
+   "credit": "R. Pollard-Mitch Mitchell",
+   "writers": [
+    "R. Pollard",
+    "Mitch Mitchell"
+   ],
+   "source_location": "Disc 16, track 21",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 16,
+   "suitcase_disc": 4,
+   "track_no": 21,
+   "id": 396
+  },
+  {
+   "band": "The Offspeed Macaroni",
+   "title": "Skin High",
+   "year": 2008,
+   "year_label": "2008",
+   "year_approx": false,
+   "notes": "2008?",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 16, track 22",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 16,
+   "suitcase_disc": 4,
+   "track_no": 22,
+   "id": 397
+  },
+  {
+   "band": "Jonathon Hyphen Jones",
+   "title": "Your Cricket Is Rather Unique",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "GBV remake on You Own The NIght 7\" / Possibly one of the unused Let It Beard demos",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 16, track 23",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 16,
+   "suitcase_disc": 4,
+   "track_no": 23,
+   "id": 398
+  },
+  {
+   "band": "Anacrusis",
+   "title": "Fame And Fortune",
+   "year": 1978,
+   "year_label": "1978",
+   "year_approx": false,
+   "notes": "1976-1978 Anacrusis II...Tony Conley says this was recorded in Mitch's basement in 1978",
+   "credit": "R. Pollard-Wendell Napier-Tony Conley",
+   "writers": [
+    "R. Pollard",
+    "Wendell Napier",
+    "Tony Conley"
+   ],
+   "source_location": "Disc 16, track 24",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 16,
+   "suitcase_disc": 4,
+   "track_no": 24,
+   "id": 399
+  },
+  {
+   "band": "Live Forever Foundation",
+   "title": "High Treason",
+   "year": 2015,
+   "year_label": "2015",
+   "year_approx": false,
+   "notes": "Recorded with Nick Mitchell for Suitcase 4",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Disc 16, track 25",
+   "collection": "Suitcase 4",
+   "suitcase": 4,
+   "disc": 16,
+   "suitcase_disc": 4,
+   "track_no": 25,
+   "id": 400
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "Sensational Gravity Boy [Refraze Version]",
+   "year": 1995,
+   "year_label": "1995",
+   "year_approx": false,
+   "notes": "Briefcase",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Briefcase 1",
+   "collection": "Briefcase 1",
+   "briefcase": 1,
+   "id": 401
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "Lion W/ Thorn in Paw [Bonus Track]",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Briefcase 2",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Briefcase 2",
+   "collection": "Briefcase 2",
+   "briefcase": 2,
+   "id": 402
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "Superwhore [Bonus Track]",
+   "year": 1995,
+   "year_label": "1995",
+   "year_approx": false,
+   "notes": "Briefcase 2",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Briefcase 2",
+   "collection": "Briefcase 2",
+   "briefcase": 2,
+   "id": 403
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "Tropical Robots [Long Version]",
+   "year": 1998,
+   "year_label": "1998",
+   "year_approx": false,
+   "notes": "Briefcase 3",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Briefcase 3",
+   "collection": "Briefcase 3",
+   "briefcase": 3,
+   "id": 404
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "Collider X",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Briefcase 4",
+   "credit": "R. Pollard-J. Pollard",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard"
+   ],
+   "source_location": "Briefcase 4",
+   "collection": "Briefcase 4",
+   "briefcase": 4,
+   "id": 405
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "Eyes Re-Load",
+   "year": 2015,
+   "year_label": "2015",
+   "year_approx": false,
+   "notes": "Recorded with Nick Mitchell for Briefcase 4",
+   "credit": "R. Pollard",
+   "writers": [
+    "R. Pollard"
+   ],
+   "source_location": "Briefcase 4",
+   "collection": "Briefcase 4",
+   "briefcase": 4,
+   "id": 406
+  },
+  {
+   "band": "Guided by Voices",
+   "title": "Golden Boy Years",
+   "year": null,
+   "year_label": null,
+   "year_approx": false,
+   "notes": "Briefcase 4",
+   "credit": "R. Pollard-J. Pollard",
+   "writers": [
+    "R. Pollard",
+    "J. Pollard"
+   ],
+   "source_location": "Briefcase 4",
+   "collection": "Briefcase 4",
+   "briefcase": 4,
+   "id": 407
+  }
+ ]
+}
